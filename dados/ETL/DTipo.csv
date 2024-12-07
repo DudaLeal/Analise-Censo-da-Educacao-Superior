@@ -1,0 +1,41 @@
+Tipo de Organização Acadêmica,Tipo IES,Categoria Administrativa,pk_tipo
+Universidade,Dado não disponível para este ano.,Pública Federal,1
+Universidade,Dado não disponível para este ano.,Pública Estadual,2
+Universidade,Dado não disponível para este ano.,Privada sem fins lucrativos,3
+Faculdade,Dado não disponível para este ano.,Pública Federal,4
+Faculdade,Dado não disponível para este ano.,Pública Estadual,5
+Faculdade,Dado não disponível para este ano.,Pública Municipal,6
+Centro Universitário,Dado não disponível para este ano.,Especial,7
+Faculdade,Dado não disponível para este ano.,Especial,8
+Universidade,Dado não disponível para este ano.,Pública Municipal,9
+Centro Universitário,Dado não disponível para este ano.,Privada sem fins lucrativos,10
+Faculdade,Dado não disponível para este ano.,Privada sem fins lucrativos,11
+Faculdade,Dado não disponível para este ano.,Privada com fins lucrativos,12
+Centro Universitário,Dado não disponível para este ano.,Privada com fins lucrativos,13
+Universidade,Dado não disponível para este ano.,Privada com fins lucrativos,14
+Centro Federal de Educação Tecnológica,Dado não disponível para este ano.,Pública Federal,15
+"Instituto Federal de Educação, Ciência e Tecnologia",Dado não disponível para este ano.,Pública Federal,16
+Centro Universitário,Dado não disponível para este ano.,Pública Municipal,17
+Centro Universitário,Dado não disponível para este ano.,Pública Estadual,18
+Centro Universitário,Dado não disponível para este ano.,Pública Federal,19
+Universidade,Dado não disponível para este ano.,Especial,20
+Universidade,Pública,Pública Federal,21
+Universidade,Pública,Pública Estadual,22
+Universidade,Privada,Privada sem fins lucrativos,23
+Faculdade,Pública,Pública Federal,24
+Centro Universitário,Privada,Privada sem fins lucrativos,25
+Faculdade,Pública,Pública Estadual,26
+Faculdade,Pública,Especial,27
+Faculdade,Pública,Pública Municipal,28
+Centro Universitário,Pública,Especial,29
+Faculdade,Privada,Privada sem fins lucrativos,30
+Universidade,Pública,Pública Municipal,31
+Centro Universitário,Privada,Privada com fins lucrativos,32
+Faculdade,Privada,Privada com fins lucrativos,33
+Universidade,Privada,Privada com fins lucrativos,34
+Universidade,Pública,Especial,35
+Centro Federal de Educação Tecnológica,Pública,Pública Federal,36
+"Instituto Federal de Educação, Ciência e Tecnologia",Pública,Pública Federal,37
+Centro Universitário,Pública,Pública Municipal,38
+Centro Universitário,Pública,Pública Estadual,39
+Centro Universitário,Pública,Pública Federal,40

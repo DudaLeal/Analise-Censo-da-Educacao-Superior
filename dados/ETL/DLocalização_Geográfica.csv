@@ -1,0 +1,1277 @@
+Região,Código da Região,Unidade da Federação,Sigla da Unidade da Federação,Código da Unidade da Federação,Município,Código do Múnicipio,Está em Uma Capital,pk_localização_geográfica
+Centro-Oeste,5,Mato Grosso,MT,51,CuiabÃ¡,5103403,Está na capital,1
+Centro-Oeste,5,Distrito Federal,DF,53,BrasÃ­lia,5300108,Está na capital,2
+Nordeste,2,Sergipe,SE,28,SÃ£o CristÃ³vÃ£o,2806701,Não está na capital,3
+Norte,1,Amazonas,AM,13,Manaus,1302603,Está na capital,4
+Nordeste,2,PiauÃ­,PI,22,Teresina,2211001,Está na capital,5
+Sudeste,3,Minas Gerais,MG,31,Ouro Preto,3146107,Não está na capital,6
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Carlos,3548906,Não está na capital,7
+Sudeste,3,Minas Gerais,MG,31,ViÃ§osa,3171303,Não está na capital,8
+Sul,4,ParanÃ¡,PR,41,Londrina,4113700,Não está na capital,9
+Sul,4,ParanÃ¡,PR,41,Curitiba,4106902,Está na capital,10
+Nordeste,2,Pernambuco,PE,26,Recife,2611606,Está na capital,11
+Sul,4,Rio Grande do Sul,RS,43,Rio Grande,4315602,Não está na capital,12
+Sul,4,Rio Grande do Sul,RS,43,Caxias do Sul,4305108,Não está na capital,13
+Sul,4,Rio Grande do Sul,RS,43,SÃ£o Leopoldo,4318705,Não está na capital,14
+Sudeste,3,Rio de Janeiro,RJ,33,PetrÃ³polis,3303906,Não está na capital,15
+Sudeste,3,Minas Gerais,MG,31,UberlÃ¢ndia,3170206,Não está na capital,16
+Sul,4,Rio Grande do Sul,RS,43,Pelotas,4314407,Não está na capital,17
+Sudeste,3,SÃ£o Paulo,SP,35,Campinas,3509502,Não está na capital,18
+Sul,4,Rio Grande do Sul,RS,43,Passo Fundo,4314100,Não está na capital,19
+Sul,4,Rio Grande do Sul,RS,43,Porto Alegre,4314902,Está na capital,20
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Paulo,3550308,Está na capital,21
+Sul,4,Rio Grande do Sul,RS,43,Novo Hamburgo,4313409,Não está na capital,22
+Nordeste,2,Bahia,BA,29,IlhÃ©us,2913606,Não está na capital,23
+Sudeste,3,Rio de Janeiro,RJ,33,Rio de Janeiro,3304557,Está na capital,24
+Sudeste,3,Minas Gerais,MG,31,TrÃªs CoraÃ§Ãµes,3169307,Não está na capital,25
+Nordeste,2,CearÃ¡,CE,23,Fortaleza,2304400,Está na capital,26
+Sudeste,3,Minas Gerais,MG,31,Alfenas,3101607,Não está na capital,27
+Nordeste,2,Alagoas,AL,27,MaceiÃ³,2704302,Está na capital,28
+Sudeste,3,SÃ£o Paulo,SP,35,Sorocaba,3552205,Não está na capital,29
+Sudeste,3,SÃ£o Paulo,SP,35,Americana,3501608,Não está na capital,30
+Sudeste,3,SÃ£o Paulo,SP,35,Santos,3548500,Não está na capital,31
+Sudeste,3,SÃ£o Paulo,SP,35,JaÃº,3525300,Não está na capital,32
+Norte,1,ParÃ¡,PA,15,BelÃ©m,1501402,Está na capital,33
+Nordeste,2,Bahia,BA,29,Salvador,2927408,Está na capital,34
+Sul,4,Santa Catarina,SC,42,FlorianÃ³polis,4205407,Está na capital,35
+Centro-Oeste,5,GoiÃ¡s,GO,52,AnÃ¡polis,5201108,Não está na capital,36
+Sul,4,ParanÃ¡,PR,41,MaringÃ¡,4115200,Não está na capital,37
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Bernardo do Campo,3548708,Não está na capital,38
+Sudeste,3,SÃ£o Paulo,SP,35,Franca,3516200,Não está na capital,39
+Sudeste,3,SÃ£o Paulo,SP,35,Piracicaba,3538709,Não está na capital,40
+Sudeste,3,SÃ£o Paulo,SP,35,PenÃ¡polis,3537305,Não está na capital,41
+Nordeste,2,Rio Grande do Norte,RN,24,MossorÃ³,2408003,Não está na capital,42
+Nordeste,2,Pernambuco,PE,26,Palmares,2610004,Não está na capital,43
+Nordeste,2,Pernambuco,PE,26,Arcoverde,2601201,Não está na capital,44
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o JosÃ© do Rio Pardo,3549706,Não está na capital,45
+Sul,4,Santa Catarina,SC,42,Blumenau,4202404,Não está na capital,46
+Sudeste,3,EspÃ­rito Santo,ES,32,Alegre,3200201,Não está na capital,47
+Sudeste,3,SÃ£o Paulo,SP,35,Catanduva,3511102,Não está na capital,48
+Sul,4,Santa Catarina,SC,42,Rio do Sul,4214805,Não está na capital,49
+Sul,4,Santa Catarina,SC,42,Joinville,4209102,Não está na capital,50
+Sul,4,Santa Catarina,SC,42,JoaÃ§aba,4209003,Não está na capital,51
+Sul,4,Santa Catarina,SC,42,ItajaÃ­,4208203,Não está na capital,52
+Sudeste,3,Rio de Janeiro,RJ,33,MacaÃ©,3302403,Não está na capital,53
+Sul,4,Santa Catarina,SC,42,Brusque,4202909,Não está na capital,54
+Sudeste,3,SÃ£o Paulo,SP,35,JundiaÃ­,3525904,Não está na capital,55
+Nordeste,2,CearÃ¡,CE,23,Sobral,2312908,Não está na capital,56
+Sudeste,3,Minas Gerais,MG,31,Conselheiro Lafaiete,3118304,Não está na capital,57
+Sudeste,3,Minas Gerais,MG,31,SÃ£o JoÃ£o del Rei,3162500,Não está na capital,58
+Sudeste,3,SÃ£o Paulo,SP,35,Andradina,3502101,Não está na capital,59
+Sudeste,3,SÃ£o Paulo,SP,35,Araraquara,3503208,Não está na capital,60
+Sudeste,3,SÃ£o Paulo,SP,35,Araras,3503307,Não está na capital,61
+Sudeste,3,Minas Gerais,MG,31,Santa Rita do SapucaÃ­,3159605,Não está na capital,62
+Sudeste,3,SÃ£o Paulo,SP,35,Barra Bonita,3505302,Não está na capital,63
+Sudeste,3,SÃ£o Paulo,SP,35,Batatais,3505906,Não está na capital,64
+Sudeste,3,SÃ£o Paulo,SP,35,Bauru,3506003,Não está na capital,65
+Sudeste,3,SÃ£o Paulo,SP,35,RibeirÃ£o Preto,3543402,Não está na capital,66
+Sudeste,3,Minas Gerais,MG,31,Uberaba,3170107,Não está na capital,67
+Sudeste,3,Rio de Janeiro,RJ,33,Vassouras,3306206,Não está na capital,68
+Sudeste,3,Minas Gerais,MG,31,Varginha,3170701,Não está na capital,69
+Nordeste,2,Pernambuco,PE,26,Olinda,2609600,Não está na capital,70
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o JosÃ© do Rio Preto,3549805,Não está na capital,71
+Nordeste,2,Pernambuco,PE,26,Caruaru,2604106,Não está na capital,72
+Sudeste,3,SÃ£o Paulo,SP,35,Mococa,3530508,Não está na capital,73
+Sudeste,3,Minas Gerais,MG,31,Pouso Alegre,3152501,Não está na capital,74
+Sudeste,3,Minas Gerais,MG,31,Belo Horizonte,3106200,Está na capital,75
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o JoÃ£o da Boa Vista,3549102,Não está na capital,76
+Sudeste,3,SÃ£o Paulo,SP,35,Monte AprazÃ­vel,3531407,Não está na capital,77
+Sudeste,3,SÃ£o Paulo,SP,35,Votuporanga,3557105,Não está na capital,78
+Sudeste,3,SÃ£o Paulo,SP,35,Santo AndrÃ©,3547809,Não está na capital,79
+Sudeste,3,SÃ£o Paulo,SP,35,Mogi das Cruzes,3530607,Não está na capital,80
+Sudeste,3,SÃ£o Paulo,SP,35,Osasco,3534401,Não está na capital,81
+Sudeste,3,SÃ£o Paulo,SP,35,Pirassununga,3539301,Não está na capital,82
+Sudeste,3,SÃ£o Paulo,SP,35,Ourinhos,3534708,Não está na capital,83
+Sudeste,3,EspÃ­rito Santo,ES,32,VitÃ³ria,3205309,Está na capital,84
+Sudeste,3,SÃ£o Paulo,SP,35,TupÃ£,3555000,Não está na capital,85
+Sudeste,3,SÃ£o Paulo,SP,35,Presidente Prudente,3541406,Não está na capital,86
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o JosÃ© dos Campos,3549904,Não está na capital,87
+Sudeste,3,Minas Gerais,MG,31,ItajubÃ¡,3132404,Não está na capital,88
+Sudeste,3,Minas Gerais,MG,31,Governador Valadares,3127701,Não está na capital,89
+Sul,4,Rio Grande do Sul,RS,43,TrÃªs de Maio,4321808,Não está na capital,90
+Sul,4,Rio Grande do Sul,RS,43,Santa Cruz do Sul,4316808,Não está na capital,91
+Sul,4,Rio Grande do Sul,RS,43,BagÃ©,4301602,Não está na capital,92
+Sul,4,ParanÃ¡,PR,41,Jandaia do Sul,4112108,Não está na capital,93
+Sudeste,3,Minas Gerais,MG,31,DivinÃ³polis,3122306,Não está na capital,94
+Sudeste,3,Minas Gerais,MG,31,Barbacena,3105608,Não está na capital,95
+Sudeste,3,SÃ£o Paulo,SP,35,TatuÃ­,3554003,Não está na capital,96
+Sudeste,3,Rio de Janeiro,RJ,33,Nova IguaÃ§u,3303500,Não está na capital,97
+Sudeste,3,Minas Gerais,MG,31,Juiz de Fora,3136702,Não está na capital,98
+Nordeste,2,ParaÃ­ba,PB,25,JoÃ£o Pessoa,2507507,Está na capital,99
+Sudeste,3,SÃ£o Paulo,SP,35,Limeira,3526902,Não está na capital,100
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Caetano do Sul,3548807,Não está na capital,101
+Sudeste,3,Minas Gerais,MG,31,Montes Claros,3143302,Não está na capital,102
+Centro-Oeste,5,GoiÃ¡s,GO,52,GoiÃ¢nia,5208707,Está na capital,103
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Campo Grande,5002704,Está na capital,104
+Nordeste,2,Sergipe,SE,28,Aracaju,2800308,Está na capital,105
+Sudeste,3,SÃ£o Paulo,SP,35,MarÃ­lia,3529005,Não está na capital,106
+Sul,4,Rio Grande do Sul,RS,43,Erechim,4307005,Não está na capital,107
+Sul,4,Rio Grande do Sul,RS,43,Santa Maria,4316907,Não está na capital,108
+Sul,4,ParanÃ¡,PR,41,RolÃ¢ndia,4122404,Não está na capital,109
+Sudeste,3,Minas Gerais,MG,31,MuriaÃ©,3143906,Não está na capital,110
+Sul,4,ParanÃ¡,PR,41,Umuarama,4128104,Não está na capital,111
+Sudeste,3,SÃ£o Paulo,SP,35,Ituverava,3524105,Não está na capital,112
+Sudeste,3,SÃ£o Paulo,SP,35,Itu,3523909,Não está na capital,113
+Sul,4,Santa Catarina,SC,42,Mafra,4210100,Não está na capital,114
+Sul,4,Rio Grande do Sul,RS,43,Cruz Alta,4306106,Não está na capital,115
+Sul,4,Rio Grande do Sul,RS,43,Canoas,4304606,Não está na capital,116
+Norte,1,RondÃ´nia,RO,11,Ji-ParanÃ¡,1100122,Não está na capital,117
+Norte,1,ParÃ¡,PA,15,SantarÃ©m,1506807,Não está na capital,118
+Norte,1,Tocantins,TO,17,Palmas,1721000,Está na capital,119
+Sul,4,Rio Grande do Sul,RS,43,CamaquÃ£,4303509,Não está na capital,120
+Sudeste,3,Rio de Janeiro,RJ,33,Duque de Caxias,3301702,Não está na capital,121
+Sudeste,3,Rio de Janeiro,RJ,33,Resende,3304201,Não está na capital,122
+Sudeste,3,Rio de Janeiro,RJ,33,TeresÃ³polis,3305802,Não está na capital,123
+Sudeste,3,SÃ£o Paulo,SP,35,Guarulhos,3518800,Não está na capital,124
+Sul,4,Santa Catarina,SC,42,CriciÃºma,4204608,Não está na capital,125
+Sudeste,3,Rio de Janeiro,RJ,33,Volta Redonda,3306305,Não está na capital,126
+Sudeste,3,Rio de Janeiro,RJ,33,ValenÃ§a,3306107,Não está na capital,127
+Sudeste,3,SÃ£o Paulo,SP,35,GuarujÃ¡,3518701,Não está na capital,128
+Sudeste,3,SÃ£o Paulo,SP,35,GuaratinguetÃ¡,3518404,Não está na capital,129
+Sul,4,Santa Catarina,SC,42,TubarÃ£o,4218707,Não está na capital,130
+Sudeste,3,SÃ£o Paulo,SP,35,BraganÃ§a Paulista,3507605,Não está na capital,131
+Sudeste,3,Rio de Janeiro,RJ,33,Campos dos Goytacazes,3301009,Não está na capital,132
+Sudeste,3,Minas Gerais,MG,31,Ituiutaba,3134202,Não está na capital,133
+Sudeste,3,Rio de Janeiro,RJ,33,Barra Mansa,3300407,Não está na capital,134
+Sudeste,3,Rio de Janeiro,RJ,33,NiterÃ³i,3303302,Não está na capital,135
+Sudeste,3,SÃ£o Paulo,SP,35,Jaboticabal,3524303,Não está na capital,136
+Sul,4,Rio Grande do Sul,RS,43,IjuÃ­,4310207,Não está na capital,137
+Sudeste,3,SÃ£o Paulo,SP,35,Itapetininga,3522307,Não está na capital,138
+Sul,4,ParanÃ¡,PR,41,Mandaguari,4114203,Não está na capital,139
+Sudeste,3,Minas Gerais,MG,31,Itabira,3131703,Não está na capital,140
+Nordeste,2,MaranhÃ£o,MA,21,SÃ£o LuÃ­s,2111300,Está na capital,141
+Norte,1,Acre,AC,12,Rio Branco,1200401,Está na capital,142
+Nordeste,2,ParaÃ­ba,PB,25,Campina Grande,2504009,Não está na capital,143
+Sudeste,3,Minas Gerais,MG,31,Boa EsperanÃ§a,3107109,Não está na capital,144
+Nordeste,2,Rio Grande do Norte,RN,24,Natal,2408102,Está na capital,145
+Sudeste,3,Rio de Janeiro,RJ,33,SeropÃ©dica,3305554,Não está na capital,146
+Sudeste,3,Minas Gerais,MG,31,Lavras,3138203,Não está na capital,147
+Sudeste,3,Minas Gerais,MG,31,Diamantina,3121605,Não está na capital,148
+Sul,4,Rio Grande do Sul,RS,43,Bento GonÃ§alves,4302105,Não está na capital,149
+Sudeste,3,EspÃ­rito Santo,ES,32,Cachoeiro de Itapemirim,3201209,Não está na capital,150
+Sudeste,3,SÃ£o Paulo,SP,35,Cruzeiro,3513405,Não está na capital,151
+Sul,4,ParanÃ¡,PR,41,Cascavel,4104808,Não está na capital,152
+Sudeste,3,Minas Gerais,MG,31,AlÃ©m ParaÃ­ba,3101508,Não está na capital,153
+Sudeste,3,SÃ£o Paulo,SP,35,Capivari,3510401,Não está na capital,154
+Sul,4,Rio Grande do Sul,RS,43,OsÃ³rio,4313508,Não está na capital,155
+Sul,4,Rio Grande do Sul,RS,43,Farroupilha,4307906,Não está na capital,156
+Sudeste,3,Minas Gerais,MG,31,Nova Lima,3144805,Não está na capital,157
+Sul,4,Santa Catarina,SC,42,JaraguÃ¡ do Sul,4208906,Não está na capital,158
+Sul,4,ParanÃ¡,PR,41,UniÃ£o da VitÃ³ria,4128203,Não está na capital,159
+Sudeste,3,SÃ£o Paulo,SP,35,Pindamonhangaba,3538006,Não está na capital,160
+Nordeste,2,Pernambuco,PE,26,Serra Talhada,2613909,Não está na capital,161
+Sudeste,3,Rio de Janeiro,RJ,33,SÃ£o GonÃ§alo,3304904,Não está na capital,162
+Sudeste,3,EspÃ­rito Santo,ES,32,Vila Velha,3205200,Não está na capital,163
+Sudeste,3,SÃ£o Paulo,SP,35,TaubatÃ©,3554102,Não está na capital,164
+Nordeste,2,Bahia,BA,29,Feira de Santana,2910800,Não está na capital,165
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Dourados,5003702,Não está na capital,166
+Nordeste,2,Pernambuco,PE,26,BelÃ©m do SÃ£o Francisco,2601607,Não está na capital,167
+Sudeste,3,Minas Gerais,MG,31,Paracatu,3147006,Não está na capital,168
+Nordeste,2,Pernambuco,PE,26,Belo Jardim,2601706,Não está na capital,169
+Nordeste,2,Pernambuco,PE,26,Limoeiro,2608909,Não está na capital,170
+Nordeste,2,Bahia,BA,29,VitÃ³ria da Conquista,2933307,Não está na capital,171
+Nordeste,2,Pernambuco,PE,26,Petrolina,2611101,Não está na capital,172
+Norte,1,RondÃ´nia,RO,11,Porto Velho,1100205,Está na capital,173
+Nordeste,2,Pernambuco,PE,26,Garanhuns,2606002,Não está na capital,174
+Nordeste,2,Pernambuco,PE,26,Goiana,2606200,Não está na capital,175
+Nordeste,2,Pernambuco,PE,26,Araripina,2601102,Não está na capital,176
+Sudeste,3,SÃ£o Paulo,SP,35,Botucatu,3507506,Não está na capital,177
+Centro-Oeste,5,Mato Grosso,MT,51,CÃ¡ceres,5102504,Não está na capital,178
+Nordeste,2,Pernambuco,PE,26,Cabo de Santo Agostinho,2602902,Não está na capital,179
+Sudeste,3,SÃ£o Paulo,SP,35,Assis,3504008,Não está na capital,180
+Sudeste,3,Minas Gerais,MG,31,Luz,3138807,Não está na capital,181
+Sudeste,3,Minas Gerais,MG,31,Curvelo,3120904,Não está na capital,182
+Sul,4,ParanÃ¡,PR,41,Ponta Grossa,4119905,Não está na capital,183
+Sudeste,3,SÃ£o Paulo,SP,35,Mogi GuaÃ§u,3530706,Não está na capital,184
+Sudeste,3,EspÃ­rito Santo,ES,32,Linhares,3203205,Não está na capital,185
+Sudeste,3,SÃ£o Paulo,SP,35,Lorena,3527207,Não está na capital,186
+Centro-Oeste,5,GoiÃ¡s,GO,52,Anicuns,5201306,Não está na capital,187
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Manuel,3550100,Não está na capital,188
+Nordeste,2,CearÃ¡,CE,23,Crato,2304202,Não está na capital,189
+Norte,1,Tocantins,TO,17,Gurupi,1709500,Não está na capital,190
+Sudeste,3,Minas Gerais,MG,31,ParÃ¡ de Minas,3147105,Não está na capital,191
+Nordeste,2,Pernambuco,PE,26,Salgueiro,2612208,Não está na capital,192
+Centro-Oeste,5,GoiÃ¡s,GO,52,CatalÃ£o,5205109,Não está na capital,193
+Centro-Oeste,5,GoiÃ¡s,GO,52,JataÃ­,5211909,Não está na capital,194
+Sudeste,3,SÃ£o Paulo,SP,35,JacareÃ­,3524402,Não está na capital,195
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Ponta PorÃ£,5006606,Não está na capital,196
+Centro-Oeste,5,Mato Grosso,MT,51,RondonÃ³polis,5107602,Não está na capital,197
+Centro-Oeste,5,Mato Grosso,MT,51,TangarÃ¡ da Serra,5107958,Não está na capital,198
+Norte,1,Roraima,RR,14,Boa Vista,1400100,Está na capital,199
+Centro-Oeste,5,Mato Grosso,MT,51,VÃ¡rzea Grande,5108402,Não está na capital,200
+Centro-Oeste,5,Mato Grosso,MT,51,Diamantino,5103502,Não está na capital,201
+Centro-Oeste,5,Mato Grosso,MT,51,Jaciara,5104807,Não está na capital,202
+Norte,1,RondÃ´nia,RO,11,Vilhena,1100304,Não está na capital,203
+Sudeste,3,EspÃ­rito Santo,ES,32,Aracruz,3200607,Não está na capital,204
+Sudeste,3,Minas Gerais,MG,31,Reduto,3154150,Não está na capital,205
+Sul,4,ParanÃ¡,PR,41,Assis Chateaubriand,4102000,Não está na capital,206
+Centro-Oeste,5,GoiÃ¡s,GO,52,Goiatuba,5209101,Não está na capital,207
+Centro-Oeste,5,GoiÃ¡s,GO,52,LuziÃ¢nia,5212501,Não está na capital,208
+Sudeste,3,Minas Gerais,MG,31,SÃ£o LourenÃ§o,3163706,Não está na capital,209
+Norte,1,AmapÃ¡,AP,16,MacapÃ¡,1600303,Está na capital,210
+Sudeste,3,SÃ£o Paulo,SP,35,OlÃ­mpia,3533908,Não está na capital,211
+Norte,1,RondÃ´nia,RO,11,Ariquemes,1100023,Não está na capital,212
+Sudeste,3,SÃ£o Paulo,SP,35,Birigui,3506508,Não está na capital,213
+Sudeste,3,SÃ£o Paulo,SP,35,AraÃ§atuba,3502804,Não está na capital,214
+Sul,4,ParanÃ¡,PR,41,Foz do IguaÃ§u,4108304,Não está na capital,215
+Sudeste,3,EspÃ­rito Santo,ES,32,Viana,3205101,Não está na capital,216
+Sudeste,3,Minas Gerais,MG,31,Coronel Fabriciano,3119401,Não está na capital,217
+Sudeste,3,SÃ£o Paulo,SP,35,Bebedouro,3506102,Não está na capital,218
+Sudeste,3,SÃ£o Paulo,SP,35,HortolÃ¢ndia,3519071,Não está na capital,219
+Sudeste,3,Rio de Janeiro,RJ,33,Belford Roxo,3300456,Não está na capital,220
+Sudeste,3,SÃ£o Paulo,SP,35,Mogi Mirim,3530805,Não está na capital,221
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,ParanaÃ­ba,5006309,Não está na capital,222
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,FÃ¡tima do Sul,5003801,Não está na capital,223
+Sudeste,3,SÃ£o Paulo,SP,35,Dracena,3514403,Não está na capital,224
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Roque,3550605,Não está na capital,225
+Sudeste,3,Minas Gerais,MG,31,JanuÃ¡ria,3135209,Não está na capital,226
+Sudeste,3,SÃ£o Paulo,SP,35,Taquaritinga,3553708,Não está na capital,227
+Centro-Oeste,5,GoiÃ¡s,GO,52,Rubiataba,5218904,Não está na capital,228
+Sudeste,3,Minas Gerais,MG,31,Iguatama,3130309,Não está na capital,229
+Nordeste,2,Pernambuco,PE,26,Afogados da Ingazeira,2600104,Não está na capital,230
+Sudeste,3,Minas Gerais,MG,31,UnaÃ­,3170404,Não está na capital,231
+Nordeste,2,Pernambuco,PE,26,TimbaÃºba,2615300,Não está na capital,232
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,TrÃªs Lagoas,5008305,Não está na capital,233
+Sul,4,Rio Grande do Sul,RS,43,Lajeado,4311403,Não está na capital,234
+Sudeste,3,SÃ£o Paulo,SP,35,Leme,3526704,Não está na capital,235
+Centro-Oeste,5,GoiÃ¡s,GO,52,Jussara,5212204,Não está na capital,236
+Sudeste,3,Minas Gerais,MG,31,Iturama,3134400,Não está na capital,237
+Nordeste,2,ParaÃ­ba,PB,25,Cabedelo,2503209,Não está na capital,238
+Nordeste,2,ParaÃ­ba,PB,25,Cajazeiras,2503704,Não está na capital,239
+Sul,4,ParanÃ¡,PR,41,Campo MourÃ£o,4104303,Não está na capital,240
+Sudeste,3,SÃ£o Paulo,SP,35,Presidente EpitÃ¡cio,3541307,Não está na capital,241
+Sudeste,3,SÃ£o Paulo,SP,35,Mirassol,3530300,Não está na capital,242
+Sudeste,3,SÃ£o Paulo,SP,35,Osvaldo Cruz,3534609,Não está na capital,243
+Nordeste,2,Bahia,BA,29,Barreiras,2903201,Não está na capital,244
+Sul,4,ParanÃ¡,PR,41,Guarapuava,4109401,Não está na capital,245
+Sudeste,3,Minas Gerais,MG,31,ItaÃºna,3133808,Não está na capital,246
+Nordeste,2,Pernambuco,PE,26,Igarassu,2606804,Não está na capital,247
+Sudeste,3,SÃ£o Paulo,SP,35,MairiporÃ£,3528502,Não está na capital,248
+Sudeste,3,SÃ£o Paulo,SP,35,Salto,3545209,Não está na capital,249
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,CorumbÃ¡,5003207,Não está na capital,250
+Sudeste,3,Rio de Janeiro,RJ,33,ItaboraÃ­,3301900,Não está na capital,251
+Sudeste,3,EspÃ­rito Santo,ES,32,Santa Teresa,3204609,Não está na capital,252
+Centro-Oeste,5,Mato Grosso,MT,51,Alta Floresta,5100250,Não está na capital,253
+Nordeste,2,Bahia,BA,29,CamaÃ§ari,2905701,Não está na capital,254
+Sudeste,3,Minas Gerais,MG,31,SabarÃ¡,3156700,Não está na capital,255
+Sudeste,3,SÃ£o Paulo,SP,35,Caraguatatuba,3510500,Não está na capital,256
+Sul,4,Santa Catarina,SC,42,Lages,4209300,Não está na capital,257
+Sul,4,ParanÃ¡,PR,41,Lapa,4113205,Não está na capital,258
+Sudeste,3,SÃ£o Paulo,SP,35,ParaguaÃ§u Paulista,3535507,Não está na capital,259
+Sudeste,3,SÃ£o Paulo,SP,35,Jales,3524808,Não está na capital,260
+Sudeste,3,SÃ£o Paulo,SP,35,Amparo,3501905,Não está na capital,261
+Sudeste,3,SÃ£o Paulo,SP,35,EspÃ­rito Santo do Pinhal,3515186,Não está na capital,262
+Sul,4,Rio Grande do Sul,RS,43,Santo Ãngelo,4317509,Não está na capital,263
+Centro-Oeste,5,GoiÃ¡s,GO,52,Aparecida de GoiÃ¢nia,5201405,Não está na capital,264
+Sudeste,3,EspÃ­rito Santo,ES,32,Cariacica,3201308,Não está na capital,265
+Sudeste,3,EspÃ­rito Santo,ES,32,Serra,3205002,Não está na capital,266
+Sudeste,3,EspÃ­rito Santo,ES,32,Castelo,3201407,Não está na capital,267
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Nova Andradina,5006200,Não está na capital,268
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Costa Rica,5003256,Não está na capital,269
+Sudeste,3,Minas Gerais,MG,31,Itabirito,3131901,Não está na capital,270
+Sudeste,3,SÃ£o Paulo,SP,35,Pereira Barreto,3537404,Não está na capital,271
+Sul,4,Santa Catarina,SC,42,SÃ£o JosÃ©,4216602,Não está na capital,272
+Sudeste,3,SÃ£o Paulo,SP,35,Campo Limpo Paulista,3509601,Não está na capital,273
+Sudeste,3,SÃ£o Paulo,SP,35,ItÃ¡polis,3522703,Não está na capital,274
+Sudeste,3,SÃ£o Paulo,SP,35,Cotia,3513009,Não está na capital,275
+Sudeste,3,SÃ£o Paulo,SP,35,Itapeva,3522406,Não está na capital,276
+Sul,4,ParanÃ¡,PR,41,Santo AntÃ´nio da Platina,4124103,Não está na capital,277
+Sudeste,3,SÃ£o Paulo,SP,35,Adamantina,3500105,Não está na capital,278
+Sudeste,3,SÃ£o Paulo,SP,35,FernandÃ³polis,3515509,Não está na capital,279
+Sudeste,3,SÃ£o Paulo,SP,35,MatÃ£o,3529302,Não está na capital,280
+Sudeste,3,SÃ£o Paulo,SP,35,RibeirÃ£o Pires,3543303,Não está na capital,281
+Centro-Oeste,5,Mato Grosso,MT,51,Sinop,5107909,Não está na capital,282
+Sudeste,3,SÃ£o Paulo,SP,35,GarÃ§a,3516705,Não está na capital,283
+Sudeste,3,SÃ£o Paulo,SP,35,Suzano,3552502,Não está na capital,284
+Sudeste,3,Minas Gerais,MG,31,Juatuba,3136652,Não está na capital,285
+Sudeste,3,SÃ£o Paulo,SP,35,AvarÃ©,3504503,Não está na capital,286
+Sul,4,ParanÃ¡,PR,41,Apucarana,4101408,Não está na capital,287
+Sul,4,ParanÃ¡,PR,41,Pato Branco,4118501,Não está na capital,288
+Nordeste,2,CearÃ¡,CE,23,Aracati,2301109,Não está na capital,289
+Sudeste,3,SÃ£o Paulo,SP,35,Santa FÃ© do Sul,3546603,Não está na capital,290
+Sudeste,3,EspÃ­rito Santo,ES,32,Nova VenÃ©cia,3203908,Não está na capital,291
+Sudeste,3,Minas Gerais,MG,31,UbÃ¡,3169901,Não está na capital,292
+Sudeste,3,SÃ£o Paulo,SP,35,Casa Branca,3510807,Não está na capital,293
+Centro-Oeste,5,Mato Grosso,MT,51,GuarantÃ£ do Norte,5104104,Não está na capital,294
+Centro-Oeste,5,Mato Grosso,MT,51,Araputanga,5101258,Não está na capital,295
+Nordeste,2,Pernambuco,PE,26,Ipojuca,2607208,Não está na capital,296
+Centro-Oeste,5,GoiÃ¡s,GO,52,Caldas Novas,5204508,Não está na capital,297
+Sul,4,ParanÃ¡,PR,41,SÃ£o JosÃ© dos Pinhais,4125506,Não está na capital,298
+Centro-Oeste,5,GoiÃ¡s,GO,52,ValparaÃ­so de GoiÃ¡s,5221858,Não está na capital,299
+Norte,1,RondÃ´nia,RO,11,Pimenta Bueno,1100189,Não está na capital,300
+Centro-Oeste,5,GoiÃ¡s,GO,52,Piracanjuba,5217104,Não está na capital,301
+Sudeste,3,SÃ£o Paulo,SP,35,Rosana,3544251,Não está na capital,302
+Sul,4,ParanÃ¡,PR,41,Campo Largo,4104204,Não está na capital,303
+Centro-Oeste,5,GoiÃ¡s,GO,52,Itumbiara,5211503,Não está na capital,304
+Sudeste,3,SÃ£o Paulo,SP,35,Bertioga,3506359,Não está na capital,305
+Sudeste,3,SÃ£o Paulo,SP,35,LenÃ§Ã³is Paulista,3526803,Não está na capital,306
+Sudeste,3,SÃ£o Paulo,SP,35,Itapira,3522604,Não está na capital,307
+Sudeste,3,SÃ£o Paulo,SP,35,Rio Claro,3543907,Não está na capital,308
+Centro-Oeste,5,GoiÃ¡s,GO,52,Trindade,5221403,Não está na capital,309
+Sul,4,ParanÃ¡,PR,41,Ibaiti,4109708,Não está na capital,310
+Sudeste,3,Minas Gerais,MG,31,PatrocÃ­nio,3148103,Não está na capital,311
+Nordeste,2,Bahia,BA,29,Alagoinhas,2900702,Não está na capital,312
+Sudeste,3,SÃ£o Paulo,SP,35,SertÃ£ozinho,3551702,Não está na capital,313
+Sudeste,3,Minas Gerais,MG,31,Monte Carmelo,3143104,Não está na capital,314
+Sudeste,3,SÃ£o Paulo,SP,35,Barueri,3505708,Não está na capital,315
+Sul,4,Santa Catarina,SC,42,Indaial,4207502,Não está na capital,316
+Sudeste,3,SÃ£o Paulo,SP,35,JaguariÃºna,3524709,Não está na capital,317
+Sudeste,3,SÃ£o Paulo,SP,35,Santa Cruz do Rio Pardo,3546405,Não está na capital,318
+Sudeste,3,SÃ£o Paulo,SP,35,TaboÃ£o da Serra,3552809,Não está na capital,319
+Sul,4,ParanÃ¡,PR,41,SÃ£o Miguel do IguaÃ§u,4125704,Não está na capital,320
+Sudeste,3,EspÃ­rito Santo,ES,32,SÃ£o Mateus,3204906,Não está na capital,321
+Sul,4,ParanÃ¡,PR,41,Francisco BeltrÃ£o,4108403,Não está na capital,322
+Sul,4,ParanÃ¡,PR,41,Pinhais,4119152,Não está na capital,323
+Sul,4,ParanÃ¡,PR,41,TelÃªmaco Borba,4127106,Não está na capital,324
+Sudeste,3,SÃ£o Paulo,SP,35,Boituva,3507001,Não está na capital,325
+Nordeste,2,MaranhÃ£o,MA,21,Pedreiras,2108207,Não está na capital,326
+Nordeste,2,CearÃ¡,CE,23,Juazeiro do Norte,2307304,Não está na capital,327
+Nordeste,2,PiauÃ­,PI,22,ParnaÃ­ba,2207702,Não está na capital,328
+Sudeste,3,SÃ£o Paulo,SP,35,Registro,3542602,Não está na capital,329
+Sudeste,3,Minas Gerais,MG,31,JoÃ£o Monlevade,3136207,Não está na capital,330
+Sudeste,3,EspÃ­rito Santo,ES,32,Colatina,3201506,Não está na capital,331
+Sudeste,3,SÃ£o Paulo,SP,35,Ilha Solteira,3520442,Não está na capital,332
+Nordeste,2,Bahia,BA,29,Lauro de Freitas,2919207,Não está na capital,333
+Sudeste,3,Minas Gerais,MG,31,Caratinga,3113404,Não está na capital,334
+Nordeste,2,Bahia,BA,29,Itamaraju,2915601,Não está na capital,335
+Sul,4,ParanÃ¡,PR,41,Medianeira,4115804,Não está na capital,336
+Sudeste,3,Minas Gerais,MG,31,AraxÃ¡,3104007,Não está na capital,337
+Sul,4,ParanÃ¡,PR,41,Loanda,4113502,Não está na capital,338
+Sudeste,3,Minas Gerais,MG,31,Santa Luzia,3157807,Não está na capital,339
+Sudeste,3,SÃ£o Paulo,SP,35,Indaiatuba,3520509,Não está na capital,340
+Sudeste,3,Minas Gerais,MG,31,Coromandel,3119302,Não está na capital,341
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,CassilÃ¢ndia,5002902,Não está na capital,342
+Sul,4,Rio Grande do Sul,RS,43,Alvorada,4300604,Não está na capital,343
+Nordeste,2,PiauÃ­,PI,22,Corrente,2202901,Não está na capital,344
+Sul,4,ParanÃ¡,PR,41,Arapoti,4101606,Não está na capital,345
+Sul,4,ParanÃ¡,PR,41,Toledo,4127700,Não está na capital,346
+Sul,4,ParanÃ¡,PR,41,Ivatuba,4111605,Não está na capital,347
+Sul,4,ParanÃ¡,PR,41,Astorga,4102109,Não está na capital,348
+Sul,4,ParanÃ¡,PR,41,ParanaguÃ¡,4118204,Não está na capital,349
+Sudeste,3,SÃ£o Paulo,SP,35,Novo Horizonte,3533502,Não está na capital,350
+Sudeste,3,SÃ£o Paulo,SP,35,Nova Odessa,3533403,Não está na capital,351
+Sudeste,3,SÃ£o Paulo,SP,35,AguaÃ­,3500303,Não está na capital,352
+Nordeste,2,Bahia,BA,29,Paripiranga,2923803,Não está na capital,353
+Nordeste,2,Bahia,BA,29,Itabuna,2914802,Não está na capital,354
+Nordeste,2,Bahia,BA,29,JequiÃ©,2918001,Não está na capital,355
+Norte,1,Tocantins,TO,17,ParaÃ­so do Tocantins,1716109,Não está na capital,356
+Sudeste,3,EspÃ­rito Santo,ES,32,GuaÃ§uÃ­,3202306,Não está na capital,357
+Sudeste,3,Minas Gerais,MG,31,Sete Lagoas,3167202,Não está na capital,358
+Sul,4,ParanÃ¡,PR,41,Dois Vizinhos,4107207,Não está na capital,359
+Sudeste,3,Minas Gerais,MG,31,Vespasiano,3171204,Não está na capital,360
+Sudeste,3,Minas Gerais,MG,31,Ipatinga,3131307,Não está na capital,361
+Sudeste,3,Minas Gerais,MG,31,Brumadinho,3109006,Não está na capital,362
+Nordeste,2,Pernambuco,PE,26,JaboatÃ£o dos Guararapes,2607901,Não está na capital,363
+Sul,4,ParanÃ¡,PR,41,Campina Grande do Sul,4104006,Não está na capital,364
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Vicente,3551009,Não está na capital,365
+Sudeste,3,SÃ£o Paulo,SP,35,Porto Ferreira,3540705,Não está na capital,366
+Sudeste,3,SÃ£o Paulo,SP,35,ItanhaÃ©m,3522109,Não está na capital,367
+Centro-Oeste,5,GoiÃ¡s,GO,52,Cristalina,5206206,Não está na capital,368
+Nordeste,2,Pernambuco,PE,26,VitÃ³ria de Santo AntÃ£o,2616407,Não está na capital,369
+Norte,1,RondÃ´nia,RO,11,Jaru,1100114,Não está na capital,370
+Centro-Oeste,5,GoiÃ¡s,GO,52,Rio Verde,5218805,Não está na capital,371
+Nordeste,2,MaranhÃ£o,MA,21,Imperatriz,2105302,Não está na capital,372
+Sudeste,3,SÃ£o Paulo,SP,35,Socorro,3552106,Não está na capital,373
+Centro-Oeste,5,Mato Grosso,MT,51,Primavera do Leste,5107040,Não está na capital,374
+Sudeste,3,SÃ£o Paulo,SP,35,Pederneiras,3536703,Não está na capital,375
+Sul,4,ParanÃ¡,PR,41,Marechal CÃ¢ndido Rondon,4114609,Não está na capital,376
+Nordeste,2,Pernambuco,PE,26,Carpina,2604007,Não está na capital,377
+Sul,4,Santa Catarina,SC,42,ChapecÃ³,4204202,Não está na capital,378
+Sul,4,Santa Catarina,SC,42,Itapiranga,4208401,Não está na capital,379
+Sul,4,Santa Catarina,SC,42,Guaramirim,4206504,Não está na capital,380
+Sul,4,Rio Grande do Sul,RS,43,Horizontina,4309605,Não está na capital,381
+Sudeste,3,SÃ£o Paulo,SP,35,Ipaussu,3520905,Não está na capital,382
+Sul,4,Santa Catarina,SC,42,Xaxim,4219705,Não está na capital,383
+Centro-Oeste,5,Mato Grosso,MT,51,ColÃ­der,5103205,Não está na capital,384
+Sudeste,3,Minas Gerais,MG,31,Machado,3139003,Não está na capital,385
+Sul,4,ParanÃ¡,PR,41,CambÃ©,4103701,Não está na capital,386
+Nordeste,2,Bahia,BA,29,Teixeira de Freitas,2931350,Não está na capital,387
+Sul,4,ParanÃ¡,PR,41,CornÃ©lio ProcÃ³pio,4106407,Não está na capital,388
+Sul,4,ParanÃ¡,PR,41,Realeza,4121406,Não está na capital,389
+Sul,4,ParanÃ¡,PR,41,UbiratÃ£,4128005,Não está na capital,390
+Sudeste,3,SÃ£o Paulo,SP,35,MauÃ¡,3529401,Não está na capital,391
+Sul,4,Santa Catarina,SC,42,SÃ£o Bento do Sul,4215802,Não está na capital,392
+Sudeste,3,SÃ£o Paulo,SP,35,Agudos,3500709,Não está na capital,393
+Norte,1,Tocantins,TO,17,Colinas do Tocantins,1705508,Não está na capital,394
+Sul,4,Rio Grande do Sul,RS,43,Santa Rosa,4317202,Não está na capital,395
+Sudeste,3,Minas Gerais,MG,31,Campo Belo,3111200,Não está na capital,396
+Sudeste,3,SÃ£o Paulo,SP,35,Lins,3527108,Não está na capital,397
+Sudeste,3,EspÃ­rito Santo,ES,32,Santa Maria de JetibÃ¡,3204559,Não está na capital,398
+Sul,4,Rio Grande do Sul,RS,43,Marau,4311809,Não está na capital,399
+Sudeste,3,Minas Gerais,MG,31,Santos Dumont,3160702,Não está na capital,400
+Sudeste,3,SÃ£o Paulo,SP,35,Ibitinga,3519600,Não está na capital,401
+Sul,4,ParanÃ¡,PR,41,AraucÃ¡ria,4101804,Não está na capital,402
+Nordeste,2,Pernambuco,PE,26,Escada,2605202,Não está na capital,403
+Sudeste,3,SÃ£o Paulo,SP,35,Praia Grande,3541000,Não está na capital,404
+Sul,4,ParanÃ¡,PR,41,Colombo,4105805,Não está na capital,405
+Norte,1,RondÃ´nia,RO,11,Cacoal,1100049,Não está na capital,406
+Sul,4,Santa Catarina,SC,42,Capivari de Baixo,4203956,Não está na capital,407
+Sudeste,3,Minas Gerais,MG,31,Cataguases,3115300,Não está na capital,408
+Nordeste,2,MaranhÃ£o,MA,21,PaÃ§o do Lumiar,2107506,Não está na capital,409
+Centro-Oeste,5,Mato Grosso,MT,51,Lucas do Rio Verde,5105259,Não está na capital,410
+Sudeste,3,Minas Gerais,MG,31,Nova Serrana,3145208,Não está na capital,411
+Centro-Oeste,5,Mato Grosso,MT,51,Sorriso,5107925,Não está na capital,412
+Sudeste,3,SÃ£o Paulo,SP,35,PaulÃ­nia,3536505,Não está na capital,413
+Centro-Oeste,5,Mato Grosso,MT,51,Barra do GarÃ§as,5101803,Não está na capital,414
+Nordeste,2,MaranhÃ£o,MA,21,Caxias,2103000,Não está na capital,415
+Sul,4,Santa Catarina,SC,42,Navegantes,4211306,Não está na capital,416
+Sudeste,3,Minas Gerais,MG,31,ManhuaÃ§u,3139409,Não está na capital,417
+Sul,4,Santa Catarina,SC,42,BalneÃ¡rio CamboriÃº,4202008,Não está na capital,418
+Sudeste,3,Minas Gerais,MG,31,VirginÃ³polis,3171808,Não está na capital,419
+Norte,1,RondÃ´nia,RO,11,Rolim de Moura,1100288,Não está na capital,420
+Nordeste,2,Bahia,BA,29,Guanambi,2911709,Não está na capital,421
+Sul,4,ParanÃ¡,PR,41,JaguariaÃ­va,4112009,Não está na capital,422
+Nordeste,2,CearÃ¡,CE,23,IcÃ³,2305407,Não está na capital,423
+Nordeste,2,Bahia,BA,29,Santo AntÃ´nio de Jesus,2928703,Não está na capital,424
+Norte,1,Acre,AC,12,Cruzeiro do Sul,1200203,Não está na capital,425
+Norte,1,ParÃ¡,PA,15,Itaituba,1503606,Não está na capital,426
+Sul,4,Rio Grande do Sul,RS,43,Nova PetrÃ³polis,4313201,Não está na capital,427
+Nordeste,2,CearÃ¡,CE,23,Maranguape,2307700,Não está na capital,428
+Sul,4,ParanÃ¡,PR,41,Palotina,4117909,Não está na capital,429
+Sudeste,3,Minas Gerais,MG,31,SÃ£o SebastiÃ£o do ParaÃ­so,3164704,Não está na capital,430
+Nordeste,2,CearÃ¡,CE,23,QuixadÃ¡,2311306,Não está na capital,431
+Norte,1,Tocantins,TO,17,Porto Nacional,1718204,Não está na capital,432
+Nordeste,2,Bahia,BA,29,Porto Seguro,2925303,Não está na capital,433
+Nordeste,2,Alagoas,AL,27,Palmeira dos Ãndios,2706307,Não está na capital,434
+Nordeste,2,Bahia,BA,29,IpirÃ¡,2914000,Não está na capital,435
+Sul,4,Rio Grande do Sul,RS,43,GravataÃ­,4309209,Não está na capital,436
+Sul,4,Rio Grande do Sul,RS,43,Ivoti,4310801,Não está na capital,437
+Sudeste,3,Minas Gerais,MG,31,Nova Porteirinha,3145059,Não está na capital,438
+Sul,4,ParanÃ¡,PR,41,Guaratuba,4109609,Não está na capital,439
+Sudeste,3,SÃ£o Paulo,SP,35,Tupi Paulista,3555109,Não está na capital,440
+Nordeste,2,Bahia,BA,29,Paulo Afonso,2924009,Não está na capital,441
+Nordeste,2,Rio Grande do Norte,RN,24,Parnamirim,2403251,Não está na capital,442
+Sudeste,3,SÃ£o Paulo,SP,35,Diadema,3513801,Não está na capital,443
+Sudeste,3,EspÃ­rito Santo,ES,32,Guarapari,3202405,Não está na capital,444
+Centro-Oeste,5,GoiÃ¡s,GO,52,Formosa,5208004,Não está na capital,445
+Sudeste,3,Minas Gerais,MG,31,Extrema,3125101,Não está na capital,446
+Sul,4,ParanÃ¡,PR,41,CafelÃ¢ndia,4103453,Não está na capital,447
+Sudeste,3,SÃ£o Paulo,SP,35,Piraju,3538808,Não está na capital,448
+Sudeste,3,Rio de Janeiro,RJ,33,Rio das Ostras,3304524,Não está na capital,449
+Centro-Oeste,5,GoiÃ¡s,GO,52,SÃ£o LuÃ­s de Montes Belos,5220108,Não está na capital,450
+Norte,1,ParÃ¡,PA,15,Ananindeua,1500800,Não está na capital,451
+Norte,1,ParÃ¡,PA,15,Capanema,1502202,Não está na capital,452
+Nordeste,2,PiauÃ­,PI,22,Floriano,2203909,Não está na capital,453
+Sudeste,3,Minas Gerais,MG,31,Campos Gerais,3111606,Não está na capital,454
+Sudeste,3,Minas Gerais,MG,31,JoÃ£o Pinheiro,3136306,Não está na capital,455
+Sudeste,3,Minas Gerais,MG,31,JanaÃºba,3135100,Não está na capital,456
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,ChapadÃ£o do Sul,5002951,Não está na capital,457
+Nordeste,2,CearÃ¡,CE,23,TianguÃ¡,2313401,Não está na capital,458
+Nordeste,2,Bahia,BA,29,Cruz das Almas,2909802,Não está na capital,459
+Sudeste,3,Minas Gerais,MG,31,Mariana,3140001,Não está na capital,460
+Sul,4,Rio Grande do Sul,RS,43,Garibaldi,4308607,Não está na capital,461
+Nordeste,2,PiauÃ­,PI,22,Canto do Buriti,2202307,Não está na capital,462
+Centro-Oeste,5,GoiÃ¡s,GO,52,Pires do Rio,5217401,Não está na capital,463
+Sudeste,3,EspÃ­rito Santo,ES,32,Venda Nova do Imigrante,3205069,Não está na capital,464
+Nordeste,2,MaranhÃ£o,MA,21,CoroatÃ¡,2103604,Não está na capital,465
+Norte,1,ParÃ¡,PA,15,TucuruÃ­,1508100,Não está na capital,466
+Nordeste,2,Bahia,BA,29,LuÃ­s Eduardo MagalhÃ£es,2919553,Não está na capital,467
+Nordeste,2,Bahia,BA,29,ValenÃ§a,2932903,Não está na capital,468
+Sudeste,3,Rio de Janeiro,RJ,33,Itaperuna,3302205,Não está na capital,469
+Nordeste,2,Bahia,BA,29,Candeias,2906501,Não está na capital,470
+Sudeste,3,SÃ£o Paulo,SP,35,Barretos,3505500,Não está na capital,471
+Sul,4,ParanÃ¡,PR,41,Pitanga,4119608,Não está na capital,472
+Sudeste,3,Rio de Janeiro,RJ,33,Santo AntÃ´nio de PÃ¡dua,3304706,Não está na capital,473
+Sul,4,ParanÃ¡,PR,41,AmpÃ©re,4101002,Não está na capital,474
+Centro-Oeste,5,Mato Grosso,MT,51,JuÃ­na,5105150,Não está na capital,475
+Nordeste,2,Bahia,BA,29,EunÃ¡polis,2910727,Não está na capital,476
+Sudeste,3,Minas Gerais,MG,31,Ponte Nova,3152105,Não está na capital,477
+Nordeste,2,Alagoas,AL,27,PÃ£o de AÃ§Ãºcar,2706406,Não está na capital,478
+Sudeste,3,Minas Gerais,MG,31,Contagem,3118601,Não está na capital,479
+Norte,1,Tocantins,TO,17,AraguaÃ­na,1702109,Não está na capital,480
+Nordeste,2,Bahia,BA,29,Capim Grosso,2906873,Não está na capital,481
+Sudeste,3,Minas Gerais,MG,31,SÃ£o Gotardo,3162104,Não está na capital,482
+Norte,1,RondÃ´nia,RO,11,Ouro Preto do Oeste,1100155,Não está na capital,483
+Centro-Oeste,5,GoiÃ¡s,GO,52,IporÃ¡,5210208,Não está na capital,484
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o SebastiÃ£o,3550704,Não está na capital,485
+Sul,4,ParanÃ¡,PR,41,GoioerÃª,4108601,Não está na capital,486
+Nordeste,2,PiauÃ­,PI,22,Ãgua Branca,2200202,Não está na capital,487
+Sul,4,ParanÃ¡,PR,41,Porecatu,4120002,Não está na capital,488
+Sudeste,3,SÃ£o Paulo,SP,35,Caieiras,3509007,Não está na capital,489
+Sul,4,Rio Grande do Sul,RS,43,SÃ£o Paulo das MissÃµes,4319307,Não está na capital,490
+Sul,4,Santa Catarina,SC,42,ConcÃ³rdia,4204301,Não está na capital,491
+Sudeste,3,Minas Gerais,MG,31,Mato Verde,3141009,Não está na capital,492
+Sudeste,3,Minas Gerais,MG,31,Patos de Minas,3148004,Não está na capital,493
+Norte,1,ParÃ¡,PA,15,RedenÃ§Ã£o,1506138,Não está na capital,494
+Nordeste,2,MaranhÃ£o,MA,21,Chapadinha,2103208,Não está na capital,495
+Nordeste,2,Alagoas,AL,27,Arapiraca,2700300,Não está na capital,496
+Sudeste,3,EspÃ­rito Santo,ES,32,Anchieta,3200409,Não está na capital,497
+Nordeste,2,PiauÃ­,PI,22,Piripiri,2208403,Não está na capital,498
+Sul,4,Rio Grande do Sul,RS,43,Sapucaia do Sul,4320008,Não está na capital,499
+Centro-Oeste,5,Mato Grosso,MT,51,SÃ£o JosÃ© dos Quatro Marcos,5107107,Não está na capital,500
+Sul,4,ParanÃ¡,PR,41,Capanema,4104501,Não está na capital,501
+Centro-Oeste,5,GoiÃ¡s,GO,52,QuirinÃ³polis,5218508,Não está na capital,502
+Sudeste,3,SÃ£o Paulo,SP,35,JunqueirÃ³polis,3526001,Não está na capital,503
+Nordeste,2,ParaÃ­ba,PB,25,Patos,2510808,Não está na capital,504
+Sudeste,3,EspÃ­rito Santo,ES,32,Barra de SÃ£o Francisco,3200904,Não está na capital,505
+Sul,4,Rio Grande do Sul,RS,43,GetÃºlio Vargas,4308904,Não está na capital,506
+Norte,1,Tocantins,TO,17,GuaraÃ­,1709302,Não está na capital,507
+Nordeste,2,Bahia,BA,29,Juazeiro,2918407,Não está na capital,508
+Nordeste,2,MaranhÃ£o,MA,21,Timon,2112209,Não está na capital,509
+Nordeste,2,Sergipe,SE,28,Lagarto,2803500,Não está na capital,510
+Nordeste,2,Rio Grande do Norte,RN,24,Currais Novos,2403103,Não está na capital,511
+Sul,4,Rio Grande do Sul,RS,43,Cachoeirinha,4303103,Não está na capital,512
+Sul,4,Santa Catarina,SC,42,Pinhalzinho,4212908,Não está na capital,513
+Sudeste,3,SÃ£o Paulo,SP,35,Presidente Venceslau,3541505,Não está na capital,514
+Sudeste,3,Minas Gerais,MG,31,Nanuque,3144300,Não está na capital,515
+Sul,4,Rio Grande do Sul,RS,43,Tapejara,4320909,Não está na capital,516
+Sudeste,3,Minas Gerais,MG,31,SabinÃ³polis,3156809,Não está na capital,517
+Nordeste,2,Pernambuco,PE,26,Santa Cruz do Capibaribe,2612505,Não está na capital,518
+Sudeste,3,SÃ£o Paulo,SP,35,Valinhos,3556206,Não está na capital,519
+Nordeste,2,Rio Grande do Norte,RN,24,AÃ§u,2400208,Não está na capital,520
+Nordeste,2,Rio Grande do Norte,RN,24,CaicÃ³,2402006,Não está na capital,521
+Nordeste,2,Bahia,BA,29,Ribeira do Pombal,2926608,Não está na capital,522
+Sul,4,ParanÃ¡,PR,41,IvaiporÃ£,4111506,Não está na capital,523
+Nordeste,2,MaranhÃ£o,MA,21,Bacabal,2101202,Não está na capital,524
+Sudeste,3,Minas Gerais,MG,31,Almenara,3101706,Não está na capital,525
+Centro-Oeste,5,GoiÃ¡s,GO,52,UruaÃ§u,5221601,Não está na capital,526
+Norte,1,AmapÃ¡,AP,16,Santana,1600600,Não está na capital,527
+Centro-Oeste,5,GoiÃ¡s,GO,52,GoianÃ©sia,5208608,Não está na capital,528
+Sudeste,3,Minas Gerais,MG,31,Frutal,3127107,Não está na capital,529
+Sudeste,3,Minas Gerais,MG,31,GuaxupÃ©,3128709,Não está na capital,530
+Centro-Oeste,5,GoiÃ¡s,GO,52,Ãguas Lindas de GoiÃ¡s,5200258,Não está na capital,531
+Nordeste,2,PiauÃ­,PI,22,Picos,2208007,Não está na capital,532
+Centro-Oeste,5,GoiÃ¡s,GO,52,ItaberaÃ­,5210406,Não está na capital,533
+Sudeste,3,Minas Gerais,MG,31,Oliveira,3145604,Não está na capital,534
+Sudeste,3,Minas Gerais,MG,31,Formiga,3126109,Não está na capital,535
+Sudeste,3,SÃ£o Paulo,SP,35,Santa BÃ¡rbara d'Oeste,3545803,Não está na capital,536
+Sudeste,3,SÃ£o Paulo,SP,35,SÃ£o Joaquim da Barra,3549409,Não está na capital,537
+Sudeste,3,SÃ£o Paulo,SP,35,Roseira,3544301,Não está na capital,538
+Centro-Oeste,5,GoiÃ¡s,GO,52,Ceres,5205406,Não está na capital,539
+Nordeste,2,Pernambuco,PE,26,Paulista,2610707,Não está na capital,540
+Sul,4,Santa Catarina,SC,42,Orleans,4211702,Não está na capital,541
+Sudeste,3,SÃ£o Paulo,SP,35,CarapicuÃ­ba,3510609,Não está na capital,542
+Sudeste,3,SÃ£o Paulo,SP,35,PeruÃ­be,3537602,Não está na capital,543
+Centro-Oeste,5,GoiÃ¡s,GO,52,Mineiros,5213103,Não está na capital,544
+Sudeste,3,Minas Gerais,MG,31,Pedro Leopoldo,3149309,Não está na capital,545
+Centro-Oeste,5,GoiÃ¡s,GO,52,Inhumas,5210000,Não está na capital,546
+Sudeste,3,SÃ£o Paulo,SP,35,TietÃª,3554508,Não está na capital,547
+Sudeste,3,Minas Gerais,MG,31,Betim,3106705,Não está na capital,548
+Nordeste,2,CearÃ¡,CE,23,Caucaia,2303709,Não está na capital,549
+Nordeste,2,MaranhÃ£o,MA,21,Balsas,2101400,Não está na capital,550
+Norte,1,ParÃ¡,PA,15,MarabÃ¡,1504208,Não está na capital,551
+Sul,4,Santa Catarina,SC,42,Palmitos,4212106,Não está na capital,552
+Nordeste,2,Bahia,BA,29,Cachoeira,2904902,Não está na capital,553
+Centro-Oeste,5,GoiÃ¡s,GO,52,Porangatu,5218003,Não está na capital,554
+Sul,4,ParanÃ¡,PR,41,ParaÃ­so do Norte,4118006,Não está na capital,555
+Sul,4,Santa Catarina,SC,42,Porto Belo,4213500,Não está na capital,556
+Sudeste,3,Minas Gerais,MG,31,TeÃ³filo Otoni,3168606,Não está na capital,557
+Nordeste,2,Bahia,BA,29,RiachÃ£o do JacuÃ­pe,2926301,Não está na capital,558
+Sul,4,ParanÃ¡,PR,41,ParanavaÃ­,4118402,Não está na capital,559
+Sudeste,3,SÃ£o Paulo,SP,35,ItararÃ©,3523206,Não está na capital,560
+Sul,4,Rio Grande do Sul,RS,43,Restinga SÃªca,4315503,Não está na capital,561
+Sudeste,3,Minas Gerais,MG,31,MatipÃ³,3140902,Não está na capital,562
+Sudeste,3,Minas Gerais,MG,31,PoÃ§os de Caldas,3151800,Não está na capital,563
+Sudeste,3,SÃ£o Paulo,SP,35,Itapecerica da Serra,3522208,Não está na capital,564
+Sudeste,3,SÃ£o Paulo,SP,35,Conchas,3512308,Não está na capital,565
+Norte,1,ParÃ¡,PA,15,Castanhal,1502400,Não está na capital,566
+Sul,4,Santa Catarina,SC,42,Canoinhas,4203808,Não está na capital,567
+Nordeste,2,CearÃ¡,CE,23,Quixeramobim,2311405,Não está na capital,568
+Nordeste,2,PiauÃ­,PI,22,SÃ£o Pedro do PiauÃ­,2210508,Não está na capital,569
+Sudeste,3,SÃ£o Paulo,SP,35,LupÃ©rcio,3527801,Não está na capital,570
+Sudeste,3,SÃ£o Paulo,SP,35,Embu das Artes,3515004,Não está na capital,571
+Sudeste,3,Rio de Janeiro,RJ,33,Bom Jesus do Itabapoana,3300605,Não está na capital,572
+Sudeste,3,Rio de Janeiro,RJ,33,TrÃªs Rios,3306008,Não está na capital,573
+Sudeste,3,Rio de Janeiro,RJ,33,Paracambi,3303609,Não está na capital,574
+Sul,4,Santa Catarina,SC,42,CaÃ§ador,4203006,Não está na capital,575
+Sul,4,Santa Catarina,SC,42,SÃ£o Miguel do Oeste,4217204,Não está na capital,576
+Sudeste,3,Minas Gerais,MG,31,Carangola,3113305,Não está na capital,577
+Sul,4,Rio Grande do Sul,RS,43,Taquara,4321204,Não está na capital,578
+Sudeste,3,SÃ£o Paulo,SP,35,Atibaia,3504107,Não está na capital,579
+Sudeste,3,EspÃ­rito Santo,ES,32,IÃºna,3203007,Não está na capital,580
+Sudeste,3,Minas Gerais,MG,31,Leopoldina,3138401,Não está na capital,581
+Sudeste,3,Minas Gerais,MG,31,Ouro Fino,3146008,Não está na capital,582
+Nordeste,2,Bahia,BA,29,Santa Maria da VitÃ³ria,2928109,Não está na capital,583
+Sul,4,Santa Catarina,SC,42,PalhoÃ§a,4211900,Não está na capital,584
+Nordeste,2,Pernambuco,PE,26,SÃ£o LourenÃ§o da Mata,2613701,Não está na capital,585
+Sudeste,3,SÃ£o Paulo,SP,35,SumarÃ©,3552403,Não está na capital,586
+Sudeste,3,Minas Gerais,MG,31,Pirapora,3151206,Não está na capital,587
+Sudeste,3,SÃ£o Paulo,SP,35,Votorantim,3557006,Não está na capital,588
+Nordeste,2,Rio Grande do Norte,RN,24,Pau dos Ferros,2409407,Não está na capital,589
+Nordeste,2,Bahia,BA,29,Remanso,2926004,Não está na capital,590
+Nordeste,2,Bahia,BA,29,Monte Santo,2921500,Não está na capital,591
+Sul,4,ParanÃ¡,PR,41,Cruzeiro do Oeste,4106605,Não está na capital,592
+Sul,4,Rio Grande do Sul,RS,43,Estrela,4307807,Não está na capital,593
+Sul,4,ParanÃ¡,PR,41,CapitÃ£o LeÃ´nidas Marques,4104600,Não está na capital,594
+Norte,1,ParÃ¡,PA,15,Altamira,1500602,Não está na capital,595
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,CaarapÃ³,5002407,Não está na capital,596
+Nordeste,2,CearÃ¡,CE,23,CrateÃºs,2304103,Não está na capital,597
+Sudeste,3,SÃ£o Paulo,SP,35,Cachoeira Paulista,3508603,Não está na capital,598
+Sudeste,3,Rio de Janeiro,RJ,33,SÃ£o FidÃ©lis,3304805,Não está na capital,599
+Sul,4,Rio Grande do Sul,RS,43,SÃ£o Marcos,4319000,Não está na capital,600
+Nordeste,2,CearÃ¡,CE,23,SÃ£o GonÃ§alo do Amarante,2312403,Não está na capital,601
+Sul,4,Santa Catarina,SC,42,AraranguÃ¡,4201406,Não está na capital,602
+Nordeste,2,Bahia,BA,29,Itaberaba,2914703,Não está na capital,603
+Sudeste,3,SÃ£o Paulo,SP,35,Porto Feliz,3540606,Não está na capital,604
+Norte,1,ParÃ¡,PA,15,Benevides,1501501,Não está na capital,605
+Centro-Oeste,5,GoiÃ¡s,GO,52,Itapuranga,5211206,Não está na capital,606
+Sudeste,3,Minas Gerais,MG,31,AimorÃ©s,3101102,Não está na capital,607
+Sudeste,3,Minas Gerais,MG,31,Baependi,3104908,Não está na capital,608
+Sudeste,3,Minas Gerais,MG,31,SÃ£o JoÃ£o Nepomuceno,3162906,Não está na capital,609
+Sudeste,3,Minas Gerais,MG,31,Itanhandu,3133105,Não está na capital,610
+Sudeste,3,Minas Gerais,MG,31,Lambari,3137809,Não está na capital,611
+Sudeste,3,Minas Gerais,MG,31,BarÃ£o de Cocais,3105400,Não está na capital,612
+Sudeste,3,Minas Gerais,MG,31,TrÃªs Pontas,3169406,Não está na capital,613
+Sudeste,3,Minas Gerais,MG,31,ElÃ³i Mendes,3123601,Não está na capital,614
+Sudeste,3,Minas Gerais,MG,31,TimÃ³teo,3168705,Não está na capital,615
+Centro-Oeste,5,GoiÃ¡s,GO,52,Senador Canedo,5220454,Não está na capital,616
+Nordeste,2,Sergipe,SE,28,Tobias Barreto,2807402,Não está na capital,617
+Sudeste,3,SÃ£o Paulo,SP,35,Francisco Morato,3516309,Não está na capital,618
+Sul,4,Rio Grande do Sul,RS,43,Igrejinha,4310108,Não está na capital,619
+Sudeste,3,SÃ£o Paulo,SP,35,RibeirÃ£o Bonito,3542909,Não está na capital,620
+Sudeste,3,EspÃ­rito Santo,ES,32,SÃ£o Gabriel da Palha,3204708,Não está na capital,621
+Nordeste,2,Bahia,BA,29,Coronel JoÃ£o SÃ¡,2909208,Não está na capital,622
+Sul,4,ParanÃ¡,PR,41,Jacarezinho,4111803,Não está na capital,623
+Norte,1,ParÃ¡,PA,15,Parauapebas,1505536,Não está na capital,624
+Centro-Oeste,5,GoiÃ¡s,GO,52,JaraguÃ¡,5211800,Não está na capital,625
+Sudeste,3,Minas Gerais,MG,31,Bom Despacho,3107406,Não está na capital,626
+Sudeste,3,Minas Gerais,MG,31,Visconde do Rio Branco,3172004,Não está na capital,627
+Nordeste,2,CearÃ¡,CE,23,RedenÃ§Ã£o,2311603,Não está na capital,628
+Nordeste,2,Bahia,BA,29,IrecÃª,2914604,Não está na capital,629
+Sudeste,3,SÃ£o Paulo,SP,35,Itaquaquecetuba,3523107,Não está na capital,630
+Sudeste,3,SÃ£o Paulo,SP,35,CapÃ£o Bonito,3510203,Não está na capital,631
+Nordeste,2,Pernambuco,PE,26,Surubim,2614501,Não está na capital,632
+Nordeste,2,CearÃ¡,CE,23,Iguatu,2305506,Não está na capital,633
+Nordeste,2,Bahia,BA,29,Serrinha,2930501,Não está na capital,634
+Norte,1,ParÃ¡,PA,15,Abaetetuba,1500107,Não está na capital,635
+Norte,1,Tocantins,TO,17,AugustinÃ³polis,1702554,Não está na capital,636
+Norte,1,Tocantins,TO,17,Pedro Afonso,1716505,Não está na capital,637
+Sul,4,Santa Catarina,SC,42,TimbÃ³,4218202,Não está na capital,638
+Nordeste,2,CearÃ¡,CE,23,Horizonte,2305233,Não está na capital,639
+Norte,1,ParÃ¡,PA,15,Paragominas,1505502,Não está na capital,640
+Norte,1,Tocantins,TO,17,Araguatins,1702208,Não está na capital,641
+Nordeste,2,PiauÃ­,PI,22,SÃ£o Raimundo Nonato,2210607,Não está na capital,642
+Norte,1,ParÃ¡,PA,15,Novo Progresso,1505031,Não está na capital,643
+Norte,1,ParÃ¡,PA,15,Breves,1501808,Não está na capital,644
+Nordeste,2,CearÃ¡,CE,23,Limoeiro do Norte,2307601,Não está na capital,645
+Nordeste,2,MaranhÃ£o,MA,21,Lago da Pedra,2105708,Não está na capital,646
+Centro-Oeste,5,GoiÃ¡s,GO,52,Novo Gama,5215231,Não está na capital,647
+Nordeste,2,CearÃ¡,CE,23,BaturitÃ©,2302107,Não está na capital,648
+Nordeste,2,MaranhÃ£o,MA,21,SÃ£o Mateus do MaranhÃ£o,2111508,Não está na capital,649
+Nordeste,2,CearÃ¡,CE,23,MaracanaÃº,2307650,Não está na capital,650
+Nordeste,2,Bahia,BA,29,Euclides da Cunha,2910701,Não está na capital,651
+Nordeste,2,PiauÃ­,PI,22,SÃ£o JoÃ£o do PiauÃ­,2210003,Não está na capital,652
+Sudeste,3,SÃ£o Paulo,SP,35,Itapevi,3522505,Não está na capital,653
+Sudeste,3,Rio de Janeiro,RJ,33,ParaÃ­ba do Sul,3303708,Não está na capital,654
+Sudeste,3,SÃ£o Paulo,SP,35,PompÃ©ia,3540002,Não está na capital,655
+Sul,4,ParanÃ¡,PR,41,Arapongas,4101507,Não está na capital,656
+Sudeste,3,SÃ£o Paulo,SP,35,Teodoro Sampaio,3554300,Não está na capital,657
+Sul,4,Rio Grande do Sul,RS,43,Sarandi,4320107,Não está na capital,658
+Nordeste,2,Bahia,BA,29,Queimadas,2925808,Não está na capital,659
+Nordeste,2,MaranhÃ£o,MA,21,AÃ§ailÃ¢ndia,2100055,Não está na capital,660
+Sudeste,3,SÃ£o Paulo,SP,35,ArujÃ¡,3503901,Não está na capital,661
+Nordeste,2,Bahia,BA,29,Tucano,2931905,Não está na capital,662
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Mundo Novo,5005681,Não está na capital,663
+Nordeste,2,MaranhÃ£o,MA,21,Parnarama,2107803,Não está na capital,664
+Norte,1,ParÃ¡,PA,15,IgarapÃ©-Miri,1503309,Não está na capital,665
+Sudeste,3,Minas Gerais,MG,31,AraÃ§uaÃ­,3103405,Não está na capital,666
+Centro-Oeste,5,Mato Grosso,MT,51,Campo Novo do Parecis,5102637,Não está na capital,667
+Centro-Oeste,5,Mato Grosso,MT,51,Juara,5105101,Não está na capital,668
+Nordeste,2,Bahia,BA,29,ConceiÃ§Ã£o do CoitÃ©,2908408,Não está na capital,669
+Sudeste,3,SÃ£o Paulo,SP,35,CaÃ§apava,3508504,Não está na capital,670
+Sudeste,3,Minas Gerais,MG,31,GuanhÃ£es,3128006,Não está na capital,671
+Nordeste,2,Bahia,BA,29,Jeremoabo,2918100,Não está na capital,672
+Nordeste,2,Bahia,BA,29,Senhor do Bonfim,2930105,Não está na capital,673
+Nordeste,2,MaranhÃ£o,MA,21,CodÃ³,2103307,Não está na capital,674
+Nordeste,2,PiauÃ­,PI,22,Campo Maior,2202208,Não está na capital,675
+Nordeste,2,PiauÃ­,PI,22,ElesbÃ£o Veloso,2203503,Não está na capital,676
+Nordeste,2,CearÃ¡,CE,23,Santa QuitÃ©ria,2312205,Não está na capital,677
+Nordeste,2,Alagoas,AL,27,Penedo,2706703,Não está na capital,678
+Sul,4,ParanÃ¡,PR,41,IporÃ£,4110607,Não está na capital,679
+Sudeste,3,SÃ£o Paulo,SP,35,TaguaÃ­,3553005,Não está na capital,680
+Nordeste,2,MaranhÃ£o,MA,21,Itinga do MaranhÃ£o,2105427,Não está na capital,681
+Nordeste,2,Bahia,BA,29,Bom Jesus da Lapa,2903904,Não está na capital,682
+Nordeste,2,Bahia,BA,29,Brumado,2904605,Não está na capital,683
+Nordeste,2,MaranhÃ£o,MA,21,Barra do Corda,2101608,Não está na capital,684
+Nordeste,2,Sergipe,SE,28,CanindÃ© de SÃ£o Francisco,2801207,Não está na capital,685
+Sudeste,3,SÃ£o Paulo,SP,35,Piratininga,3539400,Não está na capital,686
+Nordeste,2,MaranhÃ£o,MA,21,Santa InÃªs,2109908,Não está na capital,687
+Nordeste,2,Bahia,BA,29,Jacobina,2917508,Não está na capital,688
+Sudeste,3,Minas Gerais,MG,31,Araguari,3103504,Não está na capital,689
+Sudeste,3,Minas Gerais,MG,31,Porteirinha,3152204,Não está na capital,690
+Sul,4,ParanÃ¡,PR,41,Cianorte,4105508,Não está na capital,691
+Nordeste,2,Pernambuco,PE,26,NazarÃ© da Mata,2609501,Não está na capital,692
+Sudeste,3,Minas Gerais,MG,31,RibeirÃ£o das Neves,3154606,Não está na capital,693
+Nordeste,2,MaranhÃ£o,MA,21,Bacabeira,2101251,Não está na capital,694
+Nordeste,2,CearÃ¡,CE,23,Cascavel,2303501,Não está na capital,695
+Sudeste,3,SÃ£o Paulo,SP,35,Santana de ParnaÃ­ba,3547304,Não está na capital,696
+Sudeste,3,Rio de Janeiro,RJ,33,Queimados,3304144,Não está na capital,697
+Nordeste,2,ParaÃ­ba,PB,25,Guarabira,2506301,Não está na capital,698
+Sul,4,ParanÃ¡,PR,41,Fazenda Rio Grande,4107652,Não está na capital,699
+Centro-Oeste,5,GoiÃ¡s,GO,52,Indiara,5209952,Não está na capital,700
+Sudeste,3,SÃ£o Paulo,SP,35,Holambra,3519055,Não está na capital,701
+Norte,1,ParÃ¡,PA,15,BraganÃ§a,1501709,Não está na capital,702
+Nordeste,2,CearÃ¡,CE,23,Itapipoca,2306405,Não está na capital,703
+Sul,4,Rio Grande do Sul,RS,43,Uruguaiana,4322400,Não está na capital,704
+Nordeste,2,CearÃ¡,CE,23,MilhÃ£,2308351,Não está na capital,705
+Sudeste,3,Minas Gerais,MG,31,Cambuquira,3110707,Não está na capital,706
+Sul,4,ParanÃ¡,PR,41,BarracÃ£o,4102604,Não está na capital,707
+Sudeste,3,Minas Gerais,MG,31,SÃ£o Francisco,3161106,Não está na capital,708
+Sul,4,ParanÃ¡,PR,41,Terra Boa,4127205,Não está na capital,709
+Nordeste,2,CearÃ¡,CE,23,Alto Santo,2300705,Não está na capital,710
+Sudeste,3,Minas Gerais,MG,31,Passos,3147907,Não está na capital,711
+Sul,4,Santa Catarina,SC,42,Catanduvas,4204004,Não está na capital,712
+Centro-Oeste,5,GoiÃ¡s,GO,52,Palmeiras de GoiÃ¡s,5215702,Não está na capital,713
+Norte,1,ParÃ¡,PA,15,SÃ£o FÃ©lix do Xingu,1507300,Não está na capital,714
+Nordeste,2,CearÃ¡,CE,23,Pacajus,2309607,Não está na capital,715
+Nordeste,2,Pernambuco,PE,26,CabrobÃ³,2603009,Não está na capital,716
+Nordeste,2,MaranhÃ£o,MA,21,Pinheiro,2108603,Não está na capital,717
+Sul,4,Santa Catarina,SC,42,Itapema,4208302,Não está na capital,718
+Nordeste,2,ParaÃ­ba,PB,25,Sousa,2516201,Não está na capital,719
+Nordeste,2,CearÃ¡,CE,23,CroatÃ¡,2304236,Não está na capital,720
+Sul,4,ParanÃ¡,PR,41,PrudentÃ³polis,4120606,Não está na capital,721
+Sul,4,ParanÃ¡,PR,41,ClevelÃ¢ndia,4105706,Não está na capital,722
+Nordeste,2,Pernambuco,PE,26,SÃ£o JosÃ© do Egito,2613602,Não está na capital,723
+Sudeste,3,Rio de Janeiro,RJ,33,Miguel Pereira,3302908,Não está na capital,724
+Centro-Oeste,5,Mato Grosso,MT,51,MatupÃ¡,5105606,Não está na capital,725
+Nordeste,2,ParaÃ­ba,PB,25,SumÃ©,2516300,Não está na capital,726
+Sudeste,3,SÃ£o Paulo,SP,35,Itatiba,3523404,Não está na capital,727
+Sudeste,3,Rio de Janeiro,RJ,33,MaricÃ¡,3302700,Não está na capital,728
+Sudeste,3,SÃ£o Paulo,SP,35,Ferraz de Vasconcelos,3515707,Não está na capital,729
+Sudeste,3,SÃ£o Paulo,SP,35,Franco da Rocha,3516408,Não está na capital,730
+Sudeste,3,Rio de Janeiro,RJ,33,Cabo Frio,3300704,Não está na capital,731
+Sudeste,3,Minas Gerais,MG,31,Mantena,3139607,Não está na capital,732
+Sudeste,3,Rio de Janeiro,RJ,33,Araruama,3300209,Não está na capital,733
+Norte,1,ParÃ¡,PA,15,TailÃ¢ndia,1507953,Não está na capital,734
+Norte,1,Amazonas,AM,13,Manacapuru,1302504,Não está na capital,735
+Nordeste,2,Sergipe,SE,28,UmbaÃºba,2807600,Não está na capital,736
+Centro-Oeste,5,Mato Grosso,MT,51,Alto Boa Vista,5100359,Não está na capital,737
+Sudeste,3,Minas Gerais,MG,31,BertÃ³polis,3106606,Não está na capital,738
+Nordeste,2,ParaÃ­ba,PB,25,SÃ£o Bento,2513901,Não está na capital,739
+Nordeste,2,Bahia,BA,29,Casa Nova,2907202,Não está na capital,740
+Centro-Oeste,5,Mato Grosso,MT,51,Campo Verde,5102678,Não está na capital,741
+Nordeste,2,Rio Grande do Norte,RN,24,SÃ£o Miguel,2412500,Não está na capital,742
+Nordeste,2,CearÃ¡,CE,23,CanindÃ©,2302800,Não está na capital,743
+Norte,1,ParÃ¡,PA,15,Xinguara,1508407,Não está na capital,744
+Sudeste,3,SÃ£o Paulo,SP,35,Cerquilho,3511508,Não está na capital,745
+Centro-Oeste,5,Mato Grosso,MT,51,Nova Mutum,5106224,Não está na capital,746
+Nordeste,2,CearÃ¡,CE,23,Ipu,2305803,Não está na capital,747
+Centro-Oeste,5,GoiÃ¡s,GO,52,Pontalina,5217708,Não está na capital,748
+Sudeste,3,Minas Gerais,MG,31,Capelinha,3112307,Não está na capital,749
+Norte,1,RondÃ´nia,RO,11,Seringueiras,1101500,Não está na capital,750
+Norte,1,ParÃ¡,PA,15,OurilÃ¢ndia do Norte,1505437,Não está na capital,751
+Nordeste,2,Bahia,BA,29,IrarÃ¡,2914505,Não está na capital,752
+Nordeste,2,Sergipe,SE,28,Nossa Senhora do Socorro,2804805,Não está na capital,753
+Nordeste,2,MaranhÃ£o,MA,21,Presidente Dutra,2109106,Não está na capital,754
+Centro-Oeste,5,GoiÃ¡s,GO,52,Santa Terezinha de GoiÃ¡s,5219704,Não está na capital,755
+Nordeste,2,CearÃ¡,CE,23,GuaiÃºba,2304954,Não está na capital,756
+Sudeste,3,SÃ£o Paulo,SP,35,MartinÃ³polis,3529203,Não está na capital,757
+Nordeste,2,Pernambuco,PE,26,Trindade,2615607,Não está na capital,758
+Nordeste,2,CearÃ¡,CE,23,EusÃ©bio,2304285,Não está na capital,759
+Norte,1,Amazonas,AM,13,Itacoatiara,1301902,Não está na capital,760
+Norte,1,Amazonas,AM,13,Coari,1301209,Não está na capital,761
+Norte,1,Amazonas,AM,13,Parintins,1303403,Não está na capital,762
+Norte,1,Amazonas,AM,13,TefÃ©,1304203,Não está na capital,763
+Sudeste,3,Rio de Janeiro,RJ,33,SÃ£o JoÃ£o de Meriti,3305109,Não está na capital,764
+Nordeste,2,PiauÃ­,PI,22,UruÃ§uÃ­,2211209,Não está na capital,765
+Nordeste,2,CearÃ¡,CE,23,Camocim,2302602,Não está na capital,766
+Sul,4,ParanÃ¡,PR,41,Irati,4110706,Não está na capital,767
+Nordeste,2,CearÃ¡,CE,23,Parambu,2310308,Não está na capital,768
+Nordeste,2,Alagoas,AL,27,Cacimbinhas,2701209,Não está na capital,769
+Centro-Oeste,5,Mato Grosso,MT,51,Cuiab ,5103403,Está na capital,770
+Centro-Oeste,5,Distrito Federal,DF,53,Bras lia,5300108,Está na capital,771
+Nordeste,2,Sergipe,SE,28,S o Crist v o,2806701,Não está na capital,772
+Nordeste,2,Piau ,PI,22,Teresina,2211001,Está na capital,773
+Sudeste,3,S o Paulo,SP,35,S o Carlos,3548906,Não está na capital,774
+Sudeste,3,Minas Gerais,MG,31,Vi osa,3171303,Não está na capital,775
+Sul,4,Paran ,PR,41,Londrina,4113700,Não está na capital,776
+Sul,4,Paran ,PR,41,Curitiba,4106902,Está na capital,777
+Sul,4,Rio Grande do Sul,RS,43,S o Leopoldo,4318705,Não está na capital,778
+Sudeste,3,Rio de Janeiro,RJ,33,Petr polis,3303906,Não está na capital,779
+Sudeste,3,Minas Gerais,MG,31,Uberl ndia,3170206,Não está na capital,780
+Sudeste,3,S o Paulo,SP,35,Campinas,3509502,Não está na capital,781
+Sudeste,3,S o Paulo,SP,35,S o Paulo,3550308,Está na capital,782
+Nordeste,2,Bahia,BA,29,Ilh us,2913606,Não está na capital,783
+Sudeste,3,Minas Gerais,MG,31,Tr s Cora  es,3169307,Não está na capital,784
+Nordeste,2,Cear ,CE,23,Fortaleza,2304400,Está na capital,785
+Nordeste,2,Alagoas,AL,27,Macei ,2704302,Está na capital,786
+Sudeste,3,S o Paulo,SP,35,Sorocaba,3552205,Não está na capital,787
+Sudeste,3,S o Paulo,SP,35,Americana,3501608,Não está na capital,788
+Sudeste,3,S o Paulo,SP,35,Santos,3548500,Não está na capital,789
+Sudeste,3,S o Paulo,SP,35,Ja ,3525300,Não está na capital,790
+Norte,1,Par ,PA,15,Bel m,1501402,Está na capital,791
+Sul,4,Santa Catarina,SC,42,Florian polis,4205407,Está na capital,792
+Centro-Oeste,5,Goi s,GO,52,An polis,5201108,Não está na capital,793
+Sul,4,Paran ,PR,41,Maring ,4115200,Não está na capital,794
+Sudeste,3,S o Paulo,SP,35,S o Bernardo do Campo,3548708,Não está na capital,795
+Sudeste,3,S o Paulo,SP,35,Franca,3516200,Não está na capital,796
+Sudeste,3,S o Paulo,SP,35,Piracicaba,3538709,Não está na capital,797
+Sudeste,3,S o Paulo,SP,35,Pen polis,3537305,Não está na capital,798
+Nordeste,2,Rio Grande do Norte,RN,24,Mossor ,2408003,Não está na capital,799
+Sudeste,3,S o Paulo,SP,35,S o Jos  do Rio Pardo,3549706,Não está na capital,800
+Sudeste,3,Esp rito Santo,ES,32,Alegre,3200201,Não está na capital,801
+Sudeste,3,S o Paulo,SP,35,Catanduva,3511102,Não está na capital,802
+Sul,4,Santa Catarina,SC,42,Joa aba,4209003,Não está na capital,803
+Sul,4,Santa Catarina,SC,42,Itaja ,4208203,Não está na capital,804
+Sudeste,3,S o Paulo,SP,35,Jundia ,3525904,Não está na capital,805
+Nordeste,2,Cear ,CE,23,Sobral,2312908,Não está na capital,806
+Sudeste,3,Minas Gerais,MG,31,S o Jo o del Rei,3162500,Não está na capital,807
+Sudeste,3,S o Paulo,SP,35,Andradina,3502101,Não está na capital,808
+Sudeste,3,S o Paulo,SP,35,Araraquara,3503208,Não está na capital,809
+Sudeste,3,S o Paulo,SP,35,Araras,3503307,Não está na capital,810
+Sudeste,3,Minas Gerais,MG,31,Santa Rita do Sapuca ,3159605,Não está na capital,811
+Sudeste,3,S o Paulo,SP,35,Batatais,3505906,Não está na capital,812
+Sudeste,3,S o Paulo,SP,35,Bauru,3506003,Não está na capital,813
+Sudeste,3,S o Paulo,SP,35,Ribeir o Preto,3543402,Não está na capital,814
+Sudeste,3,S o Paulo,SP,35,S o Jos  do Rio Preto,3549805,Não está na capital,815
+Sudeste,3,S o Paulo,SP,35,S o Jo o da Boa Vista,3549102,Não está na capital,816
+Sudeste,3,S o Paulo,SP,35,Monte Apraz vel,3531407,Não está na capital,817
+Sudeste,3,S o Paulo,SP,35,Votuporanga,3557105,Não está na capital,818
+Sudeste,3,S o Paulo,SP,35,Santo Andr ,3547809,Não está na capital,819
+Sudeste,3,S o Paulo,SP,35,Osasco,3534401,Não está na capital,820
+Sudeste,3,S o Paulo,SP,35,Ourinhos,3534708,Não está na capital,821
+Sudeste,3,Esp rito Santo,ES,32,Vit ria,3205309,Está na capital,822
+Sudeste,3,S o Paulo,SP,35,Tup ,3555000,Não está na capital,823
+Sudeste,3,S o Paulo,SP,35,Presidente Prudente,3541406,Não está na capital,824
+Sudeste,3,S o Paulo,SP,35,S o Jos  dos Campos,3549904,Não está na capital,825
+Sudeste,3,Minas Gerais,MG,31,Itajub ,3132404,Não está na capital,826
+Sul,4,Rio Grande do Sul,RS,43,Tr s de Maio,4321808,Não está na capital,827
+Sul,4,Rio Grande do Sul,RS,43,Bag ,4301602,Não está na capital,828
+Sul,4,Paran ,PR,41,Jandaia do Sul,4112108,Não está na capital,829
+Sudeste,3,Rio de Janeiro,RJ,33,Nova Igua u,3303500,Não está na capital,830
+Nordeste,2,Para ba,PB,25,Jo o Pessoa,2507507,Está na capital,831
+Sudeste,3,S o Paulo,SP,35,Limeira,3526902,Não está na capital,832
+Sudeste,3,S o Paulo,SP,35,S o Caetano do Sul,3548807,Não está na capital,833
+Centro-Oeste,5,Goi s,GO,52,Goi nia,5208707,Está na capital,834
+Sudeste,3,S o Paulo,SP,35,Mar lia,3529005,Não está na capital,835
+Sul,4,Paran ,PR,41,Rol ndia,4122404,Não está na capital,836
+Sudeste,3,Minas Gerais,MG,31,Muria ,3143906,Não está na capital,837
+Sul,4,Paran ,PR,41,Umuarama,4128104,Não está na capital,838
+Sudeste,3,S o Paulo,SP,35,Ituverava,3524105,Não está na capital,839
+Sudeste,3,S o Paulo,SP,35,Itu,3523909,Não está na capital,840
+Norte,1,Rond nia,RO,11,Ji-Paran ,1100122,Não está na capital,841
+Norte,1,Par ,PA,15,Santar m,1506807,Não está na capital,842
+Sudeste,3,Rio de Janeiro,RJ,33,Teres polis,3305802,Não está na capital,843
+Sudeste,3,S o Paulo,SP,35,Guarulhos,3518800,Não está na capital,844
+Sul,4,Santa Catarina,SC,42,Crici ma,4204608,Não está na capital,845
+Sudeste,3,Rio de Janeiro,RJ,33,Valen a,3306107,Não está na capital,846
+Sudeste,3,S o Paulo,SP,35,Guaruj ,3518701,Não está na capital,847
+Sudeste,3,S o Paulo,SP,35,Guaratinguet ,3518404,Não está na capital,848
+Sul,4,Santa Catarina,SC,42,Tubar o,4218707,Não está na capital,849
+Sudeste,3,S o Paulo,SP,35,Bragan a Paulista,3507605,Não está na capital,850
+Sudeste,3,Rio de Janeiro,RJ,33,Niter i,3303302,Não está na capital,851
+Sudeste,3,S o Paulo,SP,35,Jaboticabal,3524303,Não está na capital,852
+Sudeste,3,S o Paulo,SP,35,Mogi das Cruzes,3530607,Não está na capital,853
+Sul,4,Rio Grande do Sul,RS,43,Iju ,4310207,Não está na capital,854
+Sudeste,3,S o Paulo,SP,35,Itapetininga,3522307,Não está na capital,855
+Sul,4,Paran ,PR,41,Mandaguari,4114203,Não está na capital,856
+Nordeste,2,Maranh o,MA,21,S o Lu s,2111300,Está na capital,857
+Nordeste,2,Para ba,PB,25,Campina Grande,2504009,Não está na capital,858
+Sudeste,3,Minas Gerais,MG,31,Boa Esperan a,3107109,Não está na capital,859
+Sudeste,3,Rio de Janeiro,RJ,33,Serop dica,3305554,Não está na capital,860
+Sul,4,Rio Grande do Sul,RS,43,Bento Gon alves,4302105,Não está na capital,861
+Sudeste,3,Esp rito Santo,ES,32,Cachoeiro de Itapemirim,3201209,Não está na capital,862
+Sul,4,Paran ,PR,41,Cascavel,4104808,Não está na capital,863
+Sudeste,3,Minas Gerais,MG,31,Al m Para ba,3101508,Não está na capital,864
+Sudeste,3,S o Paulo,SP,35,Capivari,3510401,Não está na capital,865
+Sul,4,Rio Grande do Sul,RS,43,Os rio,4313508,Não está na capital,866
+Sul,4,Santa Catarina,SC,42,Jaragu  do Sul,4208906,Não está na capital,867
+Sul,4,Paran ,PR,41,Uni o da Vit ria,4128203,Não está na capital,868
+Sudeste,3,S o Paulo,SP,35,Pindamonhangaba,3538006,Não está na capital,869
+Sudeste,3,Rio de Janeiro,RJ,33,S o Gon alo,3304904,Não está na capital,870
+Sudeste,3,Esp rito Santo,ES,32,Vila Velha,3205200,Não está na capital,871
+Sudeste,3,S o Paulo,SP,35,Taubat ,3554102,Não está na capital,872
+Nordeste,2,Pernambuco,PE,26,Bel m do S o Francisco,2601607,Não está na capital,873
+Nordeste,2,Bahia,BA,29,Vit ria da Conquista,2933307,Não está na capital,874
+Norte,1,Rond nia,RO,11,Porto Velho,1100205,Está na capital,875
+Sudeste,3,S o Paulo,SP,35,Botucatu,3507506,Não está na capital,876
+Centro-Oeste,5,Mato Grosso,MT,51,C ceres,5102504,Não está na capital,877
+Sul,4,Paran ,PR,41,Ponta Grossa,4119905,Não está na capital,878
+Sudeste,3,S o Paulo,SP,35,Mogi Gua u,3530706,Não está na capital,879
+Sudeste,3,Esp rito Santo,ES,32,Linhares,3203205,Não está na capital,880
+Sudeste,3,S o Paulo,SP,35,Lorena,3527207,Não está na capital,881
+Centro-Oeste,5,Goi s,GO,52,Anicuns,5201306,Não está na capital,882
+Sudeste,3,S o Paulo,SP,35,S o Manuel,3550100,Não está na capital,883
+Nordeste,2,Cear ,CE,23,Crato,2304202,Não está na capital,884
+Sudeste,3,Minas Gerais,MG,31,Par  de Minas,3147105,Não está na capital,885
+Centro-Oeste,5,Goi s,GO,52,Jata ,5211909,Não está na capital,886
+Centro-Oeste,5,Mato Grosso,MT,51,Rondon polis,5107602,Não está na capital,887
+Centro-Oeste,5,Mato Grosso,MT,51,V rzea Grande,5108402,Não está na capital,888
+Norte,1,Rond nia,RO,11,Vilhena,1100304,Não está na capital,889
+Sudeste,3,Esp rito Santo,ES,32,Aracruz,3200607,Não está na capital,890
+Sul,4,Paran ,PR,41,Assis Chateaubriand,4102000,Não está na capital,891
+Centro-Oeste,5,Goi s,GO,52,Goiatuba,5209101,Não está na capital,892
+Centro-Oeste,5,Goi s,GO,52,Luzi nia,5212501,Não está na capital,893
+Sudeste,3,Minas Gerais,MG,31,S o Louren o,3163706,Não está na capital,894
+Norte,1,Amap ,AP,16,Macap ,1600303,Está na capital,895
+Sudeste,3,S o Paulo,SP,35,Birigui,3506508,Não está na capital,896
+Sudeste,3,S o Paulo,SP,35,Ara atuba,3502804,Não está na capital,897
+Sul,4,Paran ,PR,41,Foz do Igua u,4108304,Não está na capital,898
+Sudeste,3,S o Paulo,SP,35,Assis,3504008,Não está na capital,899
+Sudeste,3,S o Paulo,SP,35,Bebedouro,3506102,Não está na capital,900
+Sudeste,3,S o Paulo,SP,35,Hortol ndia,3519071,Não está na capital,901
+Sudeste,3,S o Paulo,SP,35,Mogi Mirim,3530805,Não está na capital,902
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Parana ba,5006309,Não está na capital,903
+Sudeste,3,S o Paulo,SP,35,Dracena,3514403,Não está na capital,904
+Sudeste,3,S o Paulo,SP,35,S o Roque,3550605,Não está na capital,905
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Ponta Por ,5006606,Não está na capital,906
+Sudeste,3,Minas Gerais,MG,31,Janu ria,3135209,Não está na capital,907
+Sudeste,3,S o Paulo,SP,35,Taquaritinga,3553708,Não está na capital,908
+Sudeste,3,Minas Gerais,MG,31,Una ,3170404,Não está na capital,909
+Nordeste,2,Pernambuco,PE,26,Timba ba,2615300,Não está na capital,910
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Tr s Lagoas,5008305,Não está na capital,911
+Sudeste,3,S o Paulo,SP,35,Leme,3526704,Não está na capital,912
+Centro-Oeste,5,Goi s,GO,52,Jussara,5212204,Não está na capital,913
+Nordeste,2,Para ba,PB,25,Cabedelo,2503209,Não está na capital,914
+Nordeste,2,Para ba,PB,25,Cajazeiras,2503704,Não está na capital,915
+Sul,4,Paran ,PR,41,Campo Mour o,4104303,Não está na capital,916
+Sudeste,3,S o Paulo,SP,35,Presidente Epit cio,3541307,Não está na capital,917
+Sudeste,3,S o Paulo,SP,35,Osvaldo Cruz,3534609,Não está na capital,918
+Sul,4,Paran ,PR,41,Guarapuava,4109401,Não está na capital,919
+Sudeste,3,Minas Gerais,MG,31,Ita na,3133808,Não está na capital,920
+Sudeste,3,S o Paulo,SP,35,Mairipor ,3528502,Não está na capital,921
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Corumb ,5003207,Não está na capital,922
+Sudeste,3,Rio de Janeiro,RJ,33,Itabora ,3301900,Não está na capital,923
+Sudeste,3,Esp rito Santo,ES,32,Santa Teresa,3204609,Não está na capital,924
+Nordeste,2,Bahia,BA,29,Cama ari,2905701,Não está na capital,925
+Sudeste,3,Minas Gerais,MG,31,Sabar ,3156700,Não está na capital,926
+Sudeste,3,S o Paulo,SP,35,Caraguatatuba,3510500,Não está na capital,927
+Sul,4,Paran ,PR,41,Lapa,4113205,Não está na capital,928
+Sudeste,3,S o Paulo,SP,35,Paragua u Paulista,3535507,Não está na capital,929
+Sudeste,3,S o Paulo,SP,35,Jales,3524808,Não está na capital,930
+Sudeste,3,S o Paulo,SP,35,Amparo,3501905,Não está na capital,931
+Sudeste,3,S o Paulo,SP,35,Esp rito Santo do Pinhal,3515186,Não está na capital,932
+Sul,4,Rio Grande do Sul,RS,43,Santo  ngelo,4317509,Não está na capital,933
+Centro-Oeste,5,Goi s,GO,52,Aparecida de Goi nia,5201405,Não está na capital,934
+Sudeste,3,Esp rito Santo,ES,32,Cariacica,3201308,Não está na capital,935
+Sudeste,3,Esp rito Santo,ES,32,Serra,3205002,Não está na capital,936
+Sudeste,3,Esp rito Santo,ES,32,Castelo,3201407,Não está na capital,937
+Sudeste,3,S o Paulo,SP,35,Pereira Barreto,3537404,Não está na capital,938
+Sul,4,Santa Catarina,SC,42,S o Jos ,4216602,Não está na capital,939
+Sudeste,3,S o Paulo,SP,35,Campo Limpo Paulista,3509601,Não está na capital,940
+Sudeste,3,S o Paulo,SP,35,It polis,3522703,Não está na capital,941
+Sudeste,3,S o Paulo,SP,35,Itapeva,3522406,Não está na capital,942
+Sul,4,Paran ,PR,41,Santo Ant nio da Platina,4124103,Não está na capital,943
+Sudeste,3,S o Paulo,SP,35,Adamantina,3500105,Não está na capital,944
+Sudeste,3,S o Paulo,SP,35,Fernand polis,3515509,Não está na capital,945
+Sudeste,3,S o Paulo,SP,35,Mat o,3529302,Não está na capital,946
+Sudeste,3,S o Paulo,SP,35,Gar a,3516705,Não está na capital,947
+Sudeste,3,S o Paulo,SP,35,Suzano,3552502,Não está na capital,948
+Sudeste,3,S o Paulo,SP,35,Avar ,3504503,Não está na capital,949
+Sul,4,Paran ,PR,41,Apucarana,4101408,Não está na capital,950
+Sul,4,Paran ,PR,41,Pato Branco,4118501,Não está na capital,951
+Nordeste,2,Cear ,CE,23,Aracati,2301109,Não está na capital,952
+Sudeste,3,S o Paulo,SP,35,Santa F  do Sul,3546603,Não está na capital,953
+Sudeste,3,Esp rito Santo,ES,32,Nova Ven cia,3203908,Não está na capital,954
+Sudeste,3,Minas Gerais,MG,31,Ub ,3169901,Não está na capital,955
+Sudeste,3,S o Paulo,SP,35,Casa Branca,3510807,Não está na capital,956
+Centro-Oeste,5,Mato Grosso,MT,51,Guarant  do Norte,5104104,Não está na capital,957
+Centro-Oeste,5,Goi s,GO,52,Caldas Novas,5204508,Não está na capital,958
+Sul,4,Paran ,PR,41,S o Jos  dos Pinhais,4125506,Não está na capital,959
+Centro-Oeste,5,Goi s,GO,52,Valpara so de Goi s,5221858,Não está na capital,960
+Norte,1,Rond nia,RO,11,Pimenta Bueno,1100189,Não está na capital,961
+Centro-Oeste,5,Goi s,GO,52,Piracanjuba,5217104,Não está na capital,962
+Sul,4,Paran ,PR,41,Campo Largo,4104204,Não está na capital,963
+Centro-Oeste,5,Goi s,GO,52,Itumbiara,5211503,Não está na capital,964
+Sudeste,3,S o Paulo,SP,35,Bertioga,3506359,Não está na capital,965
+Sudeste,3,S o Paulo,SP,35,Itapira,3522604,Não está na capital,966
+Centro-Oeste,5,Goi s,GO,52,Trindade,5221403,Não está na capital,967
+Sul,4,Paran ,PR,41,Ibaiti,4109708,Não está na capital,968
+Sudeste,3,Minas Gerais,MG,31,Patroc nio,3148103,Não está na capital,969
+Sudeste,3,S o Paulo,SP,35,Sert ozinho,3551702,Não está na capital,970
+Sudeste,3,S o Paulo,SP,35,Jaguari na,3524709,Não está na capital,971
+Sudeste,3,S o Paulo,SP,35,Santa Cruz do Rio Pardo,3546405,Não está na capital,972
+Sudeste,3,S o Paulo,SP,35,Tabo o da Serra,3552809,Não está na capital,973
+Sul,4,Paran ,PR,41,S o Miguel do Igua u,4125704,Não está na capital,974
+Sudeste,3,Esp rito Santo,ES,32,S o Mateus,3204906,Não está na capital,975
+Sul,4,Paran ,PR,41,Francisco Beltr o,4108403,Não está na capital,976
+Sul,4,Paran ,PR,41,Pinhais,4119152,Não está na capital,977
+Sul,4,Paran ,PR,41,Tel maco Borba,4127106,Não está na capital,978
+Norte,1,Rond nia,RO,11,Ariquemes,1100023,Não está na capital,979
+Sudeste,3,S o Paulo,SP,35,Boituva,3507001,Não está na capital,980
+Nordeste,2,Maranh o,MA,21,Pedreiras,2108207,Não está na capital,981
+Nordeste,2,Cear ,CE,23,Juazeiro do Norte,2307304,Não está na capital,982
+Nordeste,2,Piau ,PI,22,Parna ba,2207702,Não está na capital,983
+Sudeste,3,S o Paulo,SP,35,Registro,3542602,Não está na capital,984
+Sudeste,3,Minas Gerais,MG,31,Jo o Monlevade,3136207,Não está na capital,985
+Sudeste,3,Esp rito Santo,ES,32,Colatina,3201506,Não está na capital,986
+Sudeste,3,S o Paulo,SP,35,Ilha Solteira,3520442,Não está na capital,987
+Sul,4,Paran ,PR,41,Medianeira,4115804,Não está na capital,988
+Sudeste,3,Minas Gerais,MG,31,Arax ,3104007,Não está na capital,989
+Sudeste,3,S o Paulo,SP,35,Indaiatuba,3520509,Não está na capital,990
+Centro-Oeste,5,Mato Grosso,MT,51,Tangar  da Serra,5107958,Não está na capital,991
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Cassil ndia,5002902,Não está na capital,992
+Nordeste,2,Piau ,PI,22,Corrente,2202901,Não está na capital,993
+Sul,4,Paran ,PR,41,Arapoti,4101606,Não está na capital,994
+Sul,4,Paran ,PR,41,Toledo,4127700,Não está na capital,995
+Sul,4,Paran ,PR,41,Ivatuba,4111605,Não está na capital,996
+Sul,4,Paran ,PR,41,Paranagu ,4118204,Não está na capital,997
+Sudeste,3,S o Paulo,SP,35,Ol mpia,3533908,Não está na capital,998
+Sudeste,3,S o Paulo,SP,35,Novo Horizonte,3533502,Não está na capital,999
+Sudeste,3,S o Paulo,SP,35,Nova Odessa,3533403,Não está na capital,1000
+Nordeste,2,Bahia,BA,29,Jequi ,2918001,Não está na capital,1001
+Sudeste,3,Esp rito Santo,ES,32,Gua u ,3202306,Não está na capital,1002
+Sul,4,Paran ,PR,41,Dois Vizinhos,4107207,Não está na capital,1003
+Nordeste,2,Pernambuco,PE,26,Jaboat o dos Guararapes,2607901,Não está na capital,1004
+Sul,4,Paran ,PR,41,Campina Grande do Sul,4104006,Não está na capital,1005
+Sudeste,3,Rio de Janeiro,RJ,33,Maca ,3302403,Não está na capital,1006
+Sudeste,3,S o Paulo,SP,35,S o Vicente,3551009,Não está na capital,1007
+Sudeste,3,S o Paulo,SP,35,Itanha m,3522109,Não está na capital,1008
+Centro-Oeste,5,Goi s,GO,52,Cristalina,5206206,Não está na capital,1009
+Nordeste,2,Pernambuco,PE,26,Vit ria de Santo Ant o,2616407,Não está na capital,1010
+Norte,1,Rond nia,RO,11,Jaru,1100114,Não está na capital,1011
+Centro-Oeste,5,Goi s,GO,52,Rio Verde,5218805,Não está na capital,1012
+Nordeste,2,Maranh o,MA,21,Imperatriz,2105302,Não está na capital,1013
+Sudeste,3,S o Paulo,SP,35,Socorro,3552106,Não está na capital,1014
+Sudeste,3,S o Paulo,SP,35,Pederneiras,3536703,Não está na capital,1015
+Sul,4,Paran ,PR,41,Marechal C ndido Rondon,4114609,Não está na capital,1016
+Sudeste,3,S o Paulo,SP,35,Ipaussu,3520905,Não está na capital,1017
+Centro-Oeste,5,Mato Grosso,MT,51,Col der,5103205,Não está na capital,1018
+Sul,4,Paran ,PR,41,Realeza,4121406,Não está na capital,1019
+Sudeste,3,S o Paulo,SP,35,Mau ,3529401,Não está na capital,1020
+Sul,4,Santa Catarina,SC,42,S o Bento do Sul,4215802,Não está na capital,1021
+Sudeste,3,S o Paulo,SP,35,Agudos,3500709,Não está na capital,1022
+Sudeste,3,S o Paulo,SP,35,Lins,3527108,Não está na capital,1023
+Sudeste,3,S o Paulo,SP,35,Rio Claro,3543907,Não está na capital,1024
+Sudeste,3,Esp rito Santo,ES,32,Santa Maria de Jetib ,3204559,Não está na capital,1025
+Sudeste,3,S o Paulo,SP,35,Ibitinga,3519600,Não está na capital,1026
+Sul,4,Paran ,PR,41,Arauc ria,4101804,Não está na capital,1027
+Sudeste,3,S o Paulo,SP,35,Praia Grande,3541000,Não está na capital,1028
+Sul,4,Paran ,PR,41,Corn lio Proc pio,4106407,Não está na capital,1029
+Sul,4,Paran ,PR,41,Colombo,4105805,Não está na capital,1030
+Norte,1,Rond nia,RO,11,Cacoal,1100049,Não está na capital,1031
+Nordeste,2,Maranh o,MA,21,Pa o do Lumiar,2107506,Não está na capital,1032
+Sudeste,3,S o Paulo,SP,35,Paul nia,3536505,Não está na capital,1033
+Centro-Oeste,5,Mato Grosso,MT,51,Barra do Gar as,5101803,Não está na capital,1034
+Nordeste,2,Maranh o,MA,21,Caxias,2103000,Não está na capital,1035
+Sudeste,3,Minas Gerais,MG,31,Manhua u,3139409,Não está na capital,1036
+Sul,4,Santa Catarina,SC,42,Balne rio Cambori ,4202008,Não está na capital,1037
+Sudeste,3,Minas Gerais,MG,31,Virgin polis,3171808,Não está na capital,1038
+Norte,1,Rond nia,RO,11,Rolim de Moura,1100288,Não está na capital,1039
+Sul,4,Paran ,PR,41,Jaguaria va,4112009,Não está na capital,1040
+Nordeste,2,Cear ,CE,23,Ic ,2305407,Não está na capital,1041
+Nordeste,2,Bahia,BA,29,Santo Ant nio de Jesus,2928703,Não está na capital,1042
+Norte,1,Par ,PA,15,Itaituba,1503606,Não está na capital,1043
+Sul,4,Paran ,PR,41,Palotina,4117909,Não está na capital,1044
+Sudeste,3,Minas Gerais,MG,31,S o Sebasti o do Para so,3164704,Não está na capital,1045
+Nordeste,2,Cear ,CE,23,Quixad ,2311306,Não está na capital,1046
+Nordeste,2,Alagoas,AL,27,Palmeira dos  ndios,2706307,Não está na capital,1047
+Nordeste,2,Bahia,BA,29,Ipir ,2914000,Não está na capital,1048
+Sul,4,Rio Grande do Sul,RS,43,Gravata ,4309209,Não está na capital,1049
+Sul,4,Paran ,PR,41,Guaratuba,4109609,Não está na capital,1050
+Sudeste,3,Esp rito Santo,ES,32,Guarapari,3202405,Não está na capital,1051
+Centro-Oeste,5,Goi s,GO,52,Formosa,5208004,Não está na capital,1052
+Centro-Oeste,5,Goi s,GO,52,S o Lu s de Montes Belos,5220108,Não está na capital,1053
+Norte,1,Par ,PA,15,Ananindeua,1500800,Não está na capital,1054
+Nordeste,2,Piau ,PI,22,Floriano,2203909,Não está na capital,1055
+Sudeste,3,Minas Gerais,MG,31,Jo o Pinheiro,3136306,Não está na capital,1056
+Sudeste,3,Minas Gerais,MG,31,Jana ba,3135100,Não está na capital,1057
+Nordeste,2,Cear ,CE,23,Tiangu ,2313401,Não está na capital,1058
+Nordeste,2,Piau ,PI,22,Canto do Buriti,2202307,Não está na capital,1059
+Centro-Oeste,5,Goi s,GO,52,Pires do Rio,5217401,Não está na capital,1060
+Sudeste,3,Esp rito Santo,ES,32,Venda Nova do Imigrante,3205069,Não está na capital,1061
+Nordeste,2,Maranh o,MA,21,Coroat ,2103604,Não está na capital,1062
+Norte,1,Par ,PA,15,Tucuru ,1508100,Não está na capital,1063
+Nordeste,2,Bahia,BA,29,Valen a,2932903,Não está na capital,1064
+Sudeste,3,S o Paulo,SP,35,Barretos,3505500,Não está na capital,1065
+Sul,4,Paran ,PR,41,Pitanga,4119608,Não está na capital,1066
+Sudeste,3,Rio de Janeiro,RJ,33,Santo Ant nio de P dua,3304706,Não está na capital,1067
+Sul,4,Paran ,PR,41,Amp re,4101002,Não está na capital,1068
+Centro-Oeste,5,Mato Grosso,MT,51,Ju na,5105150,Não está na capital,1069
+Nordeste,2,Bahia,BA,29,Eun polis,2910727,Não está na capital,1070
+Nordeste,2,Alagoas,AL,27,P o de A  car,2706406,Não está na capital,1071
+Sudeste,3,S o Paulo,SP,35,Jacare ,3524402,Não está na capital,1072
+Norte,1,Tocantins,TO,17,Para so do Tocantins,1716109,Não está na capital,1073
+Norte,1,Tocantins,TO,17,Aragua na,1702109,Não está na capital,1074
+Sudeste,3,Minas Gerais,MG,31,S o Gotardo,3162104,Não está na capital,1075
+Sul,4,Santa Catarina,SC,42,Chapec ,4204202,Não está na capital,1076
+Norte,1,Rond nia,RO,11,Ouro Preto do Oeste,1100155,Não está na capital,1077
+Centro-Oeste,5,Goi s,GO,52,Ipor ,5210208,Não está na capital,1078
+Sudeste,3,S o Paulo,SP,35,S o Sebasti o,3550704,Não está na capital,1079
+Nordeste,2,Piau ,PI,22, gua Branca,2200202,Não está na capital,1080
+Sudeste,3,S o Paulo,SP,35,Caieiras,3509007,Não está na capital,1081
+Sul,4,Santa Catarina,SC,42,Conc rdia,4204301,Não está na capital,1082
+Norte,1,Par ,PA,15,Reden  o,1506138,Não está na capital,1083
+Nordeste,2,Maranh o,MA,21,Chapadinha,2103208,Não está na capital,1084
+Nordeste,2,Piau ,PI,22,Piripiri,2208403,Não está na capital,1085
+Sudeste,3,Minas Gerais,MG,31,Divin polis,3122306,Não está na capital,1086
+Centro-Oeste,5,Mato Grosso,MT,51,S o Jos  dos Quatro Marcos,5107107,Não está na capital,1087
+Nordeste,2,Bahia,BA,29,Lu s Eduardo Magalh es,2919553,Não está na capital,1088
+Sul,4,Paran ,PR,41,Capanema,4104501,Não está na capital,1089
+Centro-Oeste,5,Goi s,GO,52,Quirin polis,5218508,Não está na capital,1090
+Sudeste,3,S o Paulo,SP,35,Junqueir polis,3526001,Não está na capital,1091
+Nordeste,2,Para ba,PB,25,Patos,2510808,Não está na capital,1092
+Centro-Oeste,5,Goi s,GO,52,Catal o,5205109,Não está na capital,1093
+Sul,4,Rio Grande do Sul,RS,43,Get lio Vargas,4308904,Não está na capital,1094
+Norte,1,Tocantins,TO,17,Guara ,1709302,Não está na capital,1095
+Nordeste,2,Maranh o,MA,21,Timon,2112209,Não está na capital,1096
+Sudeste,3,Minas Gerais,MG,31,Sabin polis,3156809,Não está na capital,1097
+Sudeste,3,S o Paulo,SP,35,Valinhos,3556206,Não está na capital,1098
+Sudeste,3,S o Paulo,SP,35,Cotia,3513009,Não está na capital,1099
+Nordeste,2,Rio Grande do Norte,RN,24,A u,2400208,Não está na capital,1100
+Nordeste,2,Rio Grande do Norte,RN,24,Caic ,2402006,Não está na capital,1101
+Sul,4,Paran ,PR,41,Ivaipor ,4111506,Não está na capital,1102
+Nordeste,2,Maranh o,MA,21,Bacabal,2101202,Não está na capital,1103
+Centro-Oeste,5,Goi s,GO,52,Urua u,5221601,Não está na capital,1104
+Norte,1,Amap ,AP,16,Santana,1600600,Não está na capital,1105
+Centro-Oeste,5,Goi s,GO,52,Goian sia,5208608,Não está na capital,1106
+Sudeste,3,Minas Gerais,MG,31,Guaxup ,3128709,Não está na capital,1107
+Centro-Oeste,5,Goi s,GO,52, guas Lindas de Goi s,5200258,Não está na capital,1108
+Nordeste,2,Piau ,PI,22,Picos,2208007,Não está na capital,1109
+Centro-Oeste,5,Goi s,GO,52,Itabera ,5210406,Não está na capital,1110
+Sudeste,3,S o Paulo,SP,35,Tatu ,3554003,Não está na capital,1111
+Sudeste,3,S o Paulo,SP,35,Pirassununga,3539301,Não está na capital,1112
+Sudeste,3,S o Paulo,SP,35,Mococa,3530508,Não está na capital,1113
+Sudeste,3,S o Paulo,SP,35,S o Joaquim da Barra,3549409,Não está na capital,1114
+Sudeste,3,S o Paulo,SP,35,Roseira,3544301,Não está na capital,1115
+Sudeste,3,S o Paulo,SP,35,Santa B rbara d'Oeste,3545803,Não está na capital,1116
+Sudeste,3,S o Paulo,SP,35,Carapicu ba,3510609,Não está na capital,1117
+Sudeste,3,S o Paulo,SP,35,Peru be,3537602,Não está na capital,1118
+Centro-Oeste,5,Goi s,GO,52,Mineiros,5213103,Não está na capital,1119
+Centro-Oeste,5,Goi s,GO,52,Inhumas,5210000,Não está na capital,1120
+Nordeste,2,Cear ,CE,23,Caucaia,2303709,Não está na capital,1121
+Nordeste,2,Maranh o,MA,21,Balsas,2101400,Não está na capital,1122
+Norte,1,Par ,PA,15,Marab ,1504208,Não está na capital,1123
+Centro-Oeste,5,Goi s,GO,52,Porangatu,5218003,Não está na capital,1124
+Sul,4,Paran ,PR,41,Para so do Norte,4118006,Não está na capital,1125
+Sudeste,3,S o Paulo,SP,35,Cruzeiro,3513405,Não está na capital,1126
+Nordeste,2,Bahia,BA,29,Riach o do Jacu pe,2926301,Não está na capital,1127
+Sul,4,Paran ,PR,41,Paranava ,4118402,Não está na capital,1128
+Sudeste,3,S o Paulo,SP,35,Itarar ,3523206,Não está na capital,1129
+Sul,4,Rio Grande do Sul,RS,43,Restinga S ca,4315503,Não está na capital,1130
+Sudeste,3,Minas Gerais,MG,31,Matip ,3140902,Não está na capital,1131
+Sudeste,3,Minas Gerais,MG,31,Po os de Caldas,3151800,Não está na capital,1132
+Sudeste,3,S o Paulo,SP,35,Itapecerica da Serra,3522208,Não está na capital,1133
+Sudeste,3,S o Paulo,SP,35,Conchas,3512308,Não está na capital,1134
+Norte,1,Par ,PA,15,Castanhal,1502400,Não está na capital,1135
+Nordeste,2,Cear ,CE,23,Quixeramobim,2311405,Não está na capital,1136
+Nordeste,2,Piau ,PI,22,S o Pedro do Piau ,2210508,Não está na capital,1137
+Sudeste,3,S o Paulo,SP,35,Lup rcio,3527801,Não está na capital,1138
+Sudeste,3,Rio de Janeiro,RJ,33,Tr s Rios,3306008,Não está na capital,1139
+Sul,4,Santa Catarina,SC,42,Ca ador,4203006,Não está na capital,1140
+Sul,4,Santa Catarina,SC,42,S o Miguel do Oeste,4217204,Não está na capital,1141
+Sudeste,3,S o Paulo,SP,35,Atibaia,3504107,Não está na capital,1142
+Sudeste,3,Esp rito Santo,ES,32,I na,3203007,Não está na capital,1143
+Sudeste,3,Minas Gerais,MG,31,Te filo Otoni,3168606,Não está na capital,1144
+Nordeste,2,Bahia,BA,29,Santa Maria da Vit ria,2928109,Não está na capital,1145
+Sul,4,Santa Catarina,SC,42,Palho a,4211900,Não está na capital,1146
+Sudeste,3,S o Paulo,SP,35,Sumar ,3552403,Não está na capital,1147
+Sul,4,Paran ,PR,41,Cruzeiro do Oeste,4106605,Não está na capital,1148
+Norte,1,Par ,PA,15,Altamira,1500602,Não está na capital,1149
+Centro-Oeste,5,Mato Grosso do Sul,MS,50,Caarap ,5002407,Não está na capital,1150
+Nordeste,2,Cear ,CE,23,Crate s,2304103,Não está na capital,1151
+Sudeste,3,S o Paulo,SP,35,Cachoeira Paulista,3508603,Não está na capital,1152
+Sudeste,3,Rio de Janeiro,RJ,33,S o Fid lis,3304805,Não está na capital,1153
+Sul,4,Rio Grande do Sul,RS,43,S o Marcos,4319000,Não está na capital,1154
+Sul,4,Santa Catarina,SC,42,Ararangu ,4201406,Não está na capital,1155
+Sudeste,3,S o Paulo,SP,35,Porto Feliz,3540606,Não está na capital,1156
+Norte,1,Par ,PA,15,Benevides,1501501,Não está na capital,1157
+Centro-Oeste,5,Goi s,GO,52,Itapuranga,5211206,Não está na capital,1158
+Sudeste,3,Minas Gerais,MG,31,Aimor s,3101102,Não está na capital,1159
+Sudeste,3,Minas Gerais,MG,31,S o Jo o Nepomuceno,3162906,Não está na capital,1160
+Sudeste,3,Minas Gerais,MG,31,Tr s Pontas,3169406,Não está na capital,1161
+Sudeste,3,Minas Gerais,MG,31,Tim teo,3168705,Não está na capital,1162
+Centro-Oeste,5,Goi s,GO,52,Senador Canedo,5220454,Não está na capital,1163
+Sul,4,Paran ,PR,41,Camb ,4103701,Não está na capital,1164
+Sudeste,3,S o Paulo,SP,35,Francisco Morato,3516309,Não está na capital,1165
+Sudeste,3,Esp rito Santo,ES,32,S o Gabriel da Palha,3204708,Não está na capital,1166
+Nordeste,2,Bahia,BA,29,Coronel Jo o S ,2909208,Não está na capital,1167
+Sul,4,Paran ,PR,41,Jacarezinho,4111803,Não está na capital,1168
+Norte,1,Par ,PA,15,Parauapebas,1505536,Não está na capital,1169
+Nordeste,2,Cear ,CE,23,Reden  o,2311603,Não está na capital,1170
+Nordeste,2,Bahia,BA,29,Irec ,2914604,Não está na capital,1171
+Sudeste,3,S o Paulo,SP,35,Itaquaquecetuba,3523107,Não está na capital,1172
+Sudeste,3,S o Paulo,SP,35,Cap o Bonito,3510203,Não está na capital,1173
+Sudeste,3,S o Paulo,SP,35,Barueri,3505708,Não está na capital,1174
+Sudeste,3,S o Paulo,SP,35,Barra Bonita,3505302,Não está na capital,1175
+Nordeste,2,Cear ,CE,23,Iguatu,2305506,Não está na capital,1176
+Norte,1,Par ,PA,15,Tail ndia,1507953,Não está na capital,1177
+Norte,1,Par ,PA,15,Abaetetuba,1500107,Não está na capital,1178
+Norte,1,Tocantins,TO,17,Augustin polis,1702554,Não está na capital,1179
+Norte,1,Par ,PA,15,Paragominas,1505502,Não está na capital,1180
+Nordeste,2,Piau ,PI,22,S o Raimundo Nonato,2210607,Não está na capital,1181
+Norte,1,Par ,PA,15,Novo Progresso,1505031,Não está na capital,1182
+Norte,1,Par ,PA,15,Breves,1501808,Não está na capital,1183
+Nordeste,2,Cear ,CE,23,Limoeiro do Norte,2307601,Não está na capital,1184
+Nordeste,2,Maranh o,MA,21,Lago da Pedra,2105708,Não está na capital,1185
+Centro-Oeste,5,Goi s,GO,52,Novo Gama,5215231,Não está na capital,1186
+Nordeste,2,Cear ,CE,23,Baturit ,2302107,Não está na capital,1187
+Centro-Oeste,5,Goi s,GO,52,Padre Bernardo,5215603,Não está na capital,1188
+Nordeste,2,Maranh o,MA,21,S o Mateus do Maranh o,2111508,Não está na capital,1189
+Nordeste,2,Piau ,PI,22,S o Jo o do Piau ,2210003,Não está na capital,1190
+Sudeste,3,S o Paulo,SP,35,Itapevi,3522505,Não está na capital,1191
+Sudeste,3,S o Paulo,SP,35,Pomp ia,3540002,Não está na capital,1192
+Sul,4,Paran ,PR,41,Arapongas,4101507,Não está na capital,1193
+Sudeste,3,S o Paulo,SP,35,Diadema,3513801,Não está na capital,1194
+Nordeste,2,Maranh o,MA,21,A ail ndia,2100055,Não está na capital,1195
+Sudeste,3,S o Paulo,SP,35,Aruj ,3503901,Não está na capital,1196
+Nordeste,2,Maranh o,MA,21,Parnarama,2107803,Não está na capital,1197
+Norte,1,Par ,PA,15,Igarap -Miri,1503309,Não está na capital,1198
+Sudeste,3,Minas Gerais,MG,31,Ara ua ,3103405,Não está na capital,1199
+Nordeste,2,Bahia,BA,29,Concei  o do Coit ,2908408,Não está na capital,1200
+Nordeste,2,Cear ,CE,23,Maracana ,2307650,Não está na capital,1201
+Sudeste,3,S o Paulo,SP,35,Ca apava,3508504,Não está na capital,1202
+Sudeste,3,Minas Gerais,MG,31,Guanh es,3128006,Não está na capital,1203
+Nordeste,2,Maranh o,MA,21,Cod ,2103307,Não está na capital,1204
+Sudeste,3,S o Paulo,SP,35,Martin polis,3529203,Não está na capital,1205
+Nordeste,2,Piau ,PI,22,Campo Maior,2202208,Não está na capital,1206
+Nordeste,2,Piau ,PI,22,Elesb o Veloso,2203503,Não está na capital,1207
+Sudeste,3,S o Paulo,SP,35,Tagua ,3553005,Não está na capital,1208
+Nordeste,2,Maranh o,MA,21,Barra do Corda,2101608,Não está na capital,1209
+Nordeste,2,Sergipe,SE,28,Canind  de S o Francisco,2801207,Não está na capital,1210
+Sudeste,3,S o Paulo,SP,35,Piratininga,3539400,Não está na capital,1211
+Nordeste,2,Maranh o,MA,21,Santa In s,2109908,Não está na capital,1212
+Sul,4,Paran ,PR,41,Cianorte,4105508,Não está na capital,1213
+Nordeste,2,Pernambuco,PE,26,Nazar  da Mata,2609501,Não está na capital,1214
+Sudeste,3,Minas Gerais,MG,31,Ribeir o das Neves,3154606,Não está na capital,1215
+Nordeste,2,Maranh o,MA,21,Bacabeira,2101251,Não está na capital,1216
+Nordeste,2,Cear ,CE,23,Cascavel,2303501,Não está na capital,1217
+Sudeste,3,S o Paulo,SP,35,Santana de Parna ba,3547304,Não está na capital,1218
+Nordeste,2,Para ba,PB,25,Guarabira,2506301,Não está na capital,1219
+Centro-Oeste,5,Goi s,GO,52,Indiara,5209952,Não está na capital,1220
+Nordeste,2,Cear ,CE,23,Horizonte,2305233,Não está na capital,1221
+Nordeste,2,Cear ,CE,23,Milh ,2308351,Não está na capital,1222
+Sul,4,Paran ,PR,41,Barrac o,4102604,Não está na capital,1223
+Sudeste,3,Minas Gerais,MG,31,S o Francisco,3161106,Não está na capital,1224
+Sul,4,Paran ,PR,41,Terra Boa,4127205,Não está na capital,1225
+Nordeste,2,Cear ,CE,23,Alto Santo,2300705,Não está na capital,1226
+Sudeste,3,S o Paulo,SP,35,Votorantim,3557006,Não está na capital,1227
+Centro-Oeste,5,Goi s,GO,52,Palmeiras de Goi s,5215702,Não está na capital,1228
+Norte,1,Par ,PA,15,S o F lix do Xingu,1507300,Não está na capital,1229
+Nordeste,2,Sergipe,SE,28,Umba ba,2807600,Não está na capital,1230
+Nordeste,2,Cear ,CE,23,Pacajus,2309607,Não está na capital,1231
+Nordeste,2,Maranh o,MA,21,Pinheiro,2108603,Não está na capital,1232
+Nordeste,2,Para ba,PB,25,Sousa,2516201,Não está na capital,1233
+Nordeste,2,Cear ,CE,23,Croat ,2304236,Não está na capital,1234
+Norte,1,Rond nia,RO,11,Seringueiras,1101500,Não está na capital,1235
+Sul,4,Paran ,PR,41,Clevel ndia,4105706,Não está na capital,1236
+Sudeste,3,S o Paulo,SP,35,Presidente Venceslau,3541505,Não está na capital,1237
+Nordeste,2,Pernambuco,PE,26,S o Jos  do Egito,2613602,Não está na capital,1238
+Sudeste,3,Minas Gerais,MG,31,Bert polis,3106606,Não está na capital,1239
+Sudeste,3,S o Paulo,SP,35,Ribeir o Pires,3543303,Não está na capital,1240
+Centro-Oeste,5,Mato Grosso,MT,51,Matup ,5105606,Não está na capital,1241
+Nordeste,2,Para ba,PB,25,Sum ,2516300,Não está na capital,1242
+Nordeste,2,Para ba,PB,25,S o Bento,2513901,Não está na capital,1243
+Norte,1,Par ,PA,15,Ouril ndia do Norte,1505437,Não está na capital,1244
+Sudeste,3,S o Paulo,SP,35,Itatiba,3523404,Não está na capital,1245
+Nordeste,2,Cear ,CE,23,Eus bio,2304285,Não está na capital,1246
+Nordeste,2,Bahia,BA,29,Irar ,2914505,Não está na capital,1247
+Norte,1,Amazonas,AM,13,Tef ,1304203,Não está na capital,1248
+Nordeste,2,Rio Grande do Norte,RN,24,S o Miguel,2412500,Não está na capital,1249
+Nordeste,2,Cear ,CE,23,Canind ,2302800,Não está na capital,1250
+Norte,1,Par ,PA,15,Xinguara,1508407,Não está na capital,1251
+Sudeste,3,S o Paulo,SP,35,Cerquilho,3511508,Não está na capital,1252
+Sudeste,3,Rio de Janeiro,RJ,33,Maric ,3302700,Não está na capital,1253
+Nordeste,2,Cear ,CE,23,Itapipoca,2306405,Não está na capital,1254
+Nordeste,2,Maranh o,MA,21,Presidente Dutra,2109106,Não está na capital,1255
+Centro-Oeste,5,Goi s,GO,52,Pontalina,5217708,Não está na capital,1256
+Sudeste,3,S o Paulo,SP,35,Embu das Artes,3515004,Não está na capital,1257
+Sudeste,3,S o Paulo,SP,35,Ferraz de Vasconcelos,3515707,Não está na capital,1258
+Sudeste,3,S o Paulo,SP,35,Franco da Rocha,3516408,Não está na capital,1259
+Sudeste,3,Rio de Janeiro,RJ,33,S o Jo o de Meriti,3305109,Não está na capital,1260
+Nordeste,2,Piau ,PI,22,Uru u ,2211209,Não está na capital,1261
+Nordeste,2,Pernambuco,PE,26,Floresta,2605707,Não está na capital,1262
+Nordeste,2,Cear ,CE,23,Camocim,2302602,Não está na capital,1263
+Nordeste,2,Cear ,CE,23,Ipu,2305803,Não está na capital,1264
+Centro-Oeste,5,Goi s,GO,52,Santa Terezinha de Goi s,5219704,Não está na capital,1265
+Nordeste,2,Cear ,CE,23,Guai ba,2304954,Não está na capital,1266
+Sudeste,3,Rio de Janeiro,RJ,33,Itagua ,3302007,Não está na capital,1267
+Sul,4,Paran ,PR,41,Irati,4110706,Não está na capital,1268
+Nordeste,2,Pernambuco,PE,26,Bezerros,2601904,Não está na capital,1269
+Nordeste,2,Bahia,BA,29,Ibicara ,2912103,Não está na capital,1270
+Norte,1,Par ,PA,15,Bragan a,1501709,Não está na capital,1271
+Centro-Oeste,5,Goi s,GO,52,Cidade Ocidental,5205497,Não está na capital,1272
+Nordeste,2,Cear ,CE,23,Parambu,2310308,Não está na capital,1273
+Nordeste,2,Bahia,BA,29,Amargosa,2901007,Não está na capital,1274
+Sul,4,Paran ,PR,41,Bandeirantes,4102406,Não está na capital,1275
+Centro-Oeste,5,Mato Grosso,MT,51, gua Boa,5100201,Não está na capital,1276
